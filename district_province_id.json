@@ -1,0 +1,554 @@
+[
+ {
+   "district_id": 1001,
+   "district_name_th": "พระนคร",
+   "district_name_en": "Phra Nakhon",
+   "province_id": 10,
+   "province_name_th": "กรุงเทพมหานคร",
+   "province_name_en": "Bangkok"
+ },
+ {
+   "district_id": 1002,
+   "district_name_th": "ดุสิต",
+   "district_name_en": "Dusit",
+   "province_id": 10,
+   "province_name_th": "กรุงเทพมหานคร",
+   "province_name_en": "Bangkok"
+ },
+ {
+   "district_id": 1008,
+   "district_name_th": "ป้อมปราบศัตรูพ่าย",
+   "district_name_en": "Pom Prap Sattruphai",
+   "province_id": 10,
+   "province_name_th": "กรุงเทพมหานคร",
+   "province_name_en": "Bangkok"
+ },
+ {
+   "district_id": 1013,
+   "district_name_th": "สัมพันธวงศ์",
+   "district_name_en": "Samphanthawong",
+   "province_id": 10,
+   "province_name_th": "กรุงเทพมหานคร",
+   "province_name_en": "Bangkok"
+ },
+ {
+   "district_id": 1004,
+   "district_name_th": "บางรัก",
+   "district_name_en": "Bang Rak",
+   "province_id": 10,
+   "province_name_th": "กรุงเทพมหานคร",
+   "province_name_en": "Bangkok"
+ },
+ {
+   "district_id": 1015,
+   "district_name_th": "ธนบุรี",
+   "district_name_en": "Thon Buri",
+   "province_id": 10,
+   "province_name_th": "กรุงเทพมหานคร",
+   "province_name_en": "Bangkok"
+ },
+ {
+   "district_id": 1018,
+   "district_name_th": "คลองสาน",
+   "district_name_en": "Khlong San",
+   "province_id": 10,
+   "province_name_th": "กรุงเทพมหานคร",
+   "province_name_en": "Bangkok"
+ },
+ {
+   "district_id": 1022,
+   "district_name_th": "ภาษีเจริญ",
+   "district_name_en": "Phasi Charoen",
+   "province_id": 10,
+   "province_name_th": "กรุงเทพมหานคร",
+   "province_name_en": "Bangkok"
+ },
+ {
+   "district_id": 1016,
+   "district_name_th": "บางกอกใหญ่",
+   "district_name_en": "Bangkok Yai",
+   "province_id": 10,
+   "province_name_th": "กรุงเทพมหานคร",
+   "province_name_en": "Bangkok"
+ },
+ {
+   "district_id": 1037,
+   "district_name_th": "ราชเทวี",
+   "district_name_en": "Rat Thewi",
+   "province_id": 10,
+   "province_name_th": "กรุงเทพมหานคร",
+   "province_name_en": "Bangkok"
+ },
+ {
+   "district_id": 1019,
+   "district_name_th": "ตลิ่งชัน",
+   "district_name_en": "Taling Chan",
+   "province_id": 10,
+   "province_name_th": "กรุงเทพมหานคร",
+   "province_name_en": "Bangkok"
+ },
+ {
+   "district_id": 1007,
+   "district_name_th": "ปทุมวัน",
+   "district_name_en": "Pathum Wan",
+   "province_id": 10,
+   "province_name_th": "กรุงเทพมหานคร",
+   "province_name_en": "Bangkok"
+ },
+ {
+   "district_id": 1020,
+   "district_name_th": "บางกอกน้อย",
+   "district_name_en": "Bangkok Noi",
+   "province_id": 10,
+   "province_name_th": "กรุงเทพมหานคร",
+   "province_name_en": "Bangkok"
+ },
+ {
+   "district_id": 1031,
+   "district_name_th": "บางคอแหลม",
+   "district_name_en": "Bang Kho Laem",
+   "province_id": 10,
+   "province_name_th": "กรุงเทพมหานคร",
+   "province_name_en": "Bangkok"
+ },
+ {
+   "district_id": 1033,
+   "district_name_th": "คลองเตย",
+   "district_name_en": "Khlong Toei",
+   "province_id": 10,
+   "province_name_th": "กรุงเทพมหานคร",
+   "province_name_en": "Bangkok"
+ },
+ {
+   "district_id": 1028,
+   "district_name_th": "สาทร",
+   "district_name_en": "Sa Thon",
+   "province_id": 10,
+   "province_name_th": "กรุงเทพมหานคร",
+   "province_name_en": "Bangkok"
+ },
+ {
+   "district_id": 1039,
+   "district_name_th": "วัฒนา",
+   "district_name_en": "Watthana",
+   "province_id": 10,
+   "province_name_th": "กรุงเทพมหานคร",
+   "province_name_en": "Bangkok"
+ },
+ {
+   "district_id": 1025,
+   "district_name_th": "บางพลัด",
+   "district_name_en": "Bang Phlat",
+   "province_id": 10,
+   "province_name_th": "กรุงเทพมหานคร",
+   "province_name_en": "Bangkok"
+ },
+ {
+   "district_id": 1035,
+   "district_name_th": "จอมทอง",
+   "district_name_en": "Chom Thong",
+   "province_id": 10,
+   "province_name_th": "กรุงเทพมหานคร",
+   "province_name_en": "Bangkok"
+ },
+ {
+   "district_id": 1017,
+   "district_name_th": "ห้วยขวาง",
+   "district_name_en": "Huai Khwang",
+   "province_id": 10,
+   "province_name_th": "กรุงเทพมหานคร",
+   "province_name_en": "Bangkok"
+ },
+ {
+   "district_id": 1012,
+   "district_name_th": "ยานนาวา",
+   "district_name_en": "Yannawa",
+   "province_id": 10,
+   "province_name_th": "กรุงเทพมหานคร",
+   "province_name_en": "Bangkok"
+ },
+ {
+   "district_id": 1024,
+   "district_name_th": "ราษฎร์บูรณะ",
+   "district_name_en": "Rat Burana",
+   "province_id": 10,
+   "province_name_th": "กรุงเทพมหานคร",
+   "province_name_en": "Bangkok"
+ },
+ {
+   "district_id": 1041,
+   "district_name_th": "หลักสี่",
+   "district_name_en": "Lak Si",
+   "province_id": 10,
+   "province_name_th": "กรุงเทพมหานคร",
+   "province_name_en": "Bangkok"
+ },
+ {
+   "district_id": 1038,
+   "district_name_th": "ลาดพร้าว",
+   "district_name_en": "Lat Phrao",
+   "province_id": 10,
+   "province_name_th": "กรุงเทพมหานคร",
+   "province_name_en": "Bangkok"
+ },
+ {
+   "district_id": 1026,
+   "district_name_th": "ดินแดง",
+   "district_name_en": "Din Daeng",
+   "province_id": 10,
+   "province_name_th": "กรุงเทพมหานคร",
+   "province_name_en": "Bangkok"
+ },
+ {
+   "district_id": 1014,
+   "district_name_th": "พญาไท",
+   "district_name_en": "Phaya Thai",
+   "province_id": 10,
+   "province_name_th": "กรุงเทพมหานคร",
+   "province_name_en": "Bangkok"
+ },
+ {
+   "district_id": 1040,
+   "district_name_th": "บางแค",
+   "district_name_en": "Bang Khae",
+   "province_id": 10,
+   "province_name_th": "กรุงเทพมหานคร",
+   "province_name_en": "Bangkok"
+ },
+ {
+   "district_id": 1046,
+   "district_name_th": "คลองสามวา",
+   "district_name_en": "Khlong Sam Wa",
+   "province_id": 10,
+   "province_name_th": "กรุงเทพมหานคร",
+   "province_name_en": "Bangkok"
+ },
+ {
+   "district_id": 1011,
+   "district_name_th": "ลาดกระบัง",
+   "district_name_en": "Lat Krabang",
+   "province_id": 10,
+   "province_name_th": "กรุงเทพมหานคร",
+   "province_name_en": "Bangkok"
+ },
+ {
+   "district_id": 1049,
+   "district_name_th": "ทุ่งครุ",
+   "district_name_en": "Thung Khu",
+   "province_id": 10,
+   "province_name_th": "กรุงเทพมหานคร",
+   "province_name_en": "Bangkok"
+ },
+ {
+   "district_id": 1006,
+   "district_name_th": "บางกะปิ",
+   "district_name_en": "Bang Kapi",
+   "province_id": 10,
+   "province_name_th": "กรุงเทพมหานคร",
+   "province_name_en": "Bangkok"
+ },
+ {
+   "district_id": 1042,
+   "district_name_th": "สายไหม",
+   "district_name_en": "Sai Mai",
+   "province_id": 10,
+   "province_name_th": "กรุงเทพมหานคร",
+   "province_name_en": "Bangkok"
+ },
+ {
+   "district_id": 1032,
+   "district_name_th": "ประเวศ",
+   "district_name_en": "Prawet",
+   "province_id": 10,
+   "province_name_th": "กรุงเทพมหานคร",
+   "province_name_en": "Bangkok"
+ },
+ {
+   "district_id": 1029,
+   "district_name_th": "บางซื่อ",
+   "district_name_en": "Bang Su",
+   "province_id": 10,
+   "province_name_th": "กรุงเทพมหานคร",
+   "province_name_en": "Bangkok"
+ },
+ {
+   "district_id": 1009,
+   "district_name_th": "พระโขนง",
+   "district_name_en": "Phra Khanong",
+   "province_id": 10,
+   "province_name_th": "กรุงเทพมหานคร",
+   "province_name_en": "Bangkok"
+ },
+ {
+   "district_id": 1003,
+   "district_name_th": "หนองจอก",
+   "district_name_en": "Nong Chok",
+   "province_id": 10,
+   "province_name_th": "กรุงเทพมหานคร",
+   "province_name_en": "Bangkok"
+ },
+ {
+   "district_id": 1047,
+   "district_name_th": "บางนา",
+   "district_name_en": "Bang Na",
+   "province_id": 10,
+   "province_name_th": "กรุงเทพมหานคร",
+   "province_name_en": "Bangkok"
+ },
+ {
+   "district_id": 1023,
+   "district_name_th": "หนองแขม",
+   "district_name_en": "Nong Khaem",
+   "province_id": 10,
+   "province_name_th": "กรุงเทพมหานคร",
+   "province_name_en": "Bangkok"
+ },
+ {
+   "district_id": 1045,
+   "district_name_th": "วังทองหลาง",
+   "district_name_en": "Wang Thong Lang",
+   "province_id": 10,
+   "province_name_th": "กรุงเทพมหานคร",
+   "province_name_en": "Bangkok"
+ },
+ {
+   "district_id": 1005,
+   "district_name_th": "บางเขน",
+   "district_name_en": "Bang Khen",
+   "province_id": 10,
+   "province_name_th": "กรุงเทพมหานคร",
+   "province_name_en": "Bangkok"
+ },
+ {
+   "district_id": 1048,
+   "district_name_th": "ทวีวัฒนา",
+   "district_name_en": "Thawi Watthana",
+   "province_id": 10,
+   "province_name_th": "กรุงเทพมหานคร",
+   "province_name_en": "Bangkok"
+ },
+ {
+   "district_id": 1027,
+   "district_name_th": "บึงกุ่ม",
+   "district_name_en": "Bung Kum",
+   "province_id": 10,
+   "province_name_th": "กรุงเทพมหานคร",
+   "province_name_en": "Bangkok"
+ },
+ {
+   "district_id": 1034,
+   "district_name_th": "สวนหลวง",
+   "district_name_en": "Suan Luang",
+   "province_id": 10,
+   "province_name_th": "กรุงเทพมหานคร",
+   "province_name_en": "Bangkok"
+ },
+ {
+   "district_id": 1010,
+   "district_name_th": "มีนบุรี",
+   "district_name_en": "Min Buri",
+   "province_id": 10,
+   "province_name_th": "กรุงเทพมหานคร",
+   "province_name_en": "Bangkok"
+ },
+ {
+   "district_id": 1043,
+   "district_name_th": "คันนายาว",
+   "district_name_en": "Khanna Yao",
+   "province_id": 10,
+   "province_name_th": "กรุงเทพมหานคร",
+   "province_name_en": "Bangkok"
+ },
+ {
+   "district_id": 1044,
+   "district_name_th": "สะพานสูง",
+   "district_name_en": "Saphan Sung",
+   "province_id": 10,
+   "province_name_th": "กรุงเทพมหานคร",
+   "province_name_en": "Bangkok"
+ },
+ {
+   "district_id": 1030,
+   "district_name_th": "จตุจักร",
+   "district_name_en": "Chatuchak",
+   "province_id": 10,
+   "province_name_th": "กรุงเทพมหานคร",
+   "province_name_en": "Bangkok"
+ },
+ {
+   "district_id": 1050,
+   "district_name_th": "บางบอน",
+   "district_name_en": "Bang Bon",
+   "province_id": 10,
+   "province_name_th": "กรุงเทพมหานคร",
+   "province_name_en": "Bangkok"
+ },
+ {
+   "district_id": 1036,
+   "district_name_th": "ดอนเมือง",
+   "district_name_en": "Don Mueang",
+   "province_id": 10,
+   "province_name_th": "กรุงเทพมหานคร",
+   "province_name_en": "Bangkok"
+ },
+ {
+   "district_id": 1021,
+   "district_name_th": "บางขุนเทียน",
+   "district_name_en": "Bang Khun Thian",
+   "province_id": 10,
+   "province_name_th": "กรุงเทพมหานคร",
+   "province_name_en": "Bangkok"
+ },
+ {
+   "district_id": 1104,
+   "district_name_th": "พระประแดง",
+   "district_name_en": "Phra Pradaeng",
+   "province_id": 11,
+   "province_name_th": "สมุทรปราการ",
+   "province_name_en": "Samut Prakarn"
+ },
+ {
+   "district_id": 1101,
+   "district_name_th": "เมืองสมุทรปราการ",
+   "district_name_en": "Mueang Samut Prakan",
+   "province_id": 11,
+   "province_name_th": "สมุทรปราการ",
+   "province_name_en": "Samut Prakarn"
+ },
+ {
+   "district_id": 1105,
+   "district_name_th": "พระสมุทรเจดีย์",
+   "district_name_en": "Phra Samut Chedi",
+   "province_id": 11,
+   "province_name_th": "สมุทรปราการ",
+   "province_name_en": "Samut Prakarn"
+ },
+ {
+   "district_id": 1102,
+   "district_name_th": "บางบ่อ",
+   "district_name_en": "Bang Bo",
+   "province_id": 11,
+   "province_name_th": "สมุทรปราการ",
+   "province_name_en": "Samut Prakarn"
+ },
+ {
+   "district_id": 1106,
+   "district_name_th": "บางเสาธง",
+   "district_name_en": "Bang Sao Thong",
+   "province_id": 11,
+   "province_name_th": "สมุทรปราการ",
+   "province_name_en": "Samut Prakarn"
+ },
+ {
+   "district_id": 1103,
+   "district_name_th": "บางพลี",
+   "district_name_en": "Bang Phli",
+   "province_id": 11,
+   "province_name_th": "สมุทรปราการ",
+   "province_name_en": "Samut Prakarn"
+ },
+ {
+   "district_id": 1204,
+   "district_name_th": "บางบัวทอง",
+   "district_name_en": "Bang Bua Thong",
+   "province_id": 12,
+   "province_name_th": "นนทบุรี",
+   "province_name_en": "Nonthaburi"
+ },
+ {
+   "district_id": 1206,
+   "district_name_th": "ปากเกร็ด",
+   "district_name_en": "Pak Kret",
+   "province_id": 12,
+   "province_name_th": "นนทบุรี",
+   "province_name_en": "Nonthaburi"
+ },
+ {
+   "district_id": 1202,
+   "district_name_th": "บางกรวย",
+   "district_name_en": "Bang Kruai",
+   "province_id": 12,
+   "province_name_th": "นนทบุรี",
+   "province_name_en": "Nonthaburi"
+ },
+ {
+   "district_id": 1201,
+   "district_name_th": "เมืองนนทบุรี",
+   "district_name_en": "Mueang Nonthaburi",
+   "province_id": 12,
+   "province_name_th": "นนทบุรี",
+   "province_name_en": "Nonthaburi"
+ },
+ {
+   "district_id": 1203,
+   "district_name_th": "บางใหญ่",
+   "district_name_en": "Bang Yai",
+   "province_id": 12,
+   "province_name_th": "นนทบุรี",
+   "province_name_en": "Nonthaburi"
+ },
+ {
+   "district_id": 1205,
+   "district_name_th": "ไทรน้อย",
+   "district_name_en": "Sai Noi",
+   "province_id": 12,
+   "province_name_th": "นนทบุรี",
+   "province_name_en": "Nonthaburi"
+ },
+ {
+   "district_id": 1301,
+   "district_name_th": "เมืองปทุมธานี",
+   "district_name_en": "Mueang Pathum Thani",
+   "province_id": 13,
+   "province_name_th": "ปทุมธานี",
+   "province_name_en": "Pathum Thani"
+ },
+ {
+   "district_id": 1307,
+   "district_name_th": "สามโคก",
+   "district_name_en": "Sam Khok",
+   "province_id": 13,
+   "province_name_th": "ปทุมธานี",
+   "province_name_en": "Pathum Thani"
+ },
+ {
+   "district_id": 1305,
+   "district_name_th": "ลาดหลุมแก้ว",
+   "district_name_en": "Lat Lum Kaeo",
+   "province_id": 13,
+   "province_name_th": "ปทุมธานี",
+   "province_name_en": "Pathum Thani"
+ },
+ {
+   "district_id": 1303,
+   "district_name_th": "ธัญบุรี",
+   "district_name_en": "Thanyaburi",
+   "province_id": 13,
+   "province_name_th": "ปทุมธานี",
+   "province_name_en": "Pathum Thani"
+ },
+ {
+   "district_id": 1302,
+   "district_name_th": "คลองหลวง",
+   "district_name_en": "khlong Luang",
+   "province_id": 13,
+   "province_name_th": "ปทุมธานี",
+   "province_name_en": "Pathum Thani"
+ },
+ {
+   "district_id": 1306,
+   "district_name_th": "ลำลูกกา",
+   "district_name_en": "Lam Luk Ka",
+   "province_id": 13,
+   "province_name_th": "ปทุมธานี",
+   "province_name_en": "Pathum Thani"
+ },
+ {
+   "district_id": 1304,
+   "district_name_th": "หนองเสือ",
+   "district_name_en": "Nong Suea",
+   "province_id": 13,
+   "province_name_th": "ปทุมธานี",
+   "province_name_en": "Pathum Thani"
+ }
+]

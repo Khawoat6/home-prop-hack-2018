@@ -1,0 +1,32 @@
+[
+ {
+   "facility_id": 1,
+   "facility_name_th": "สระว่ายน้ำ",
+   "facility_name_en": "swimming_pool"
+ },
+ {
+   "facility_id": 2,
+   "facility_name_th": "คลับเฮ้าส์",
+   "facility_name_en": "clubhouse"
+ },
+ {
+   "facility_id": 3,
+   "facility_name_th": "สวนสาธารณะ",
+   "facility_name_en": "park"
+ },
+ {
+   "facility_id": 4,
+   "facility_name_th": "ฟิตเนส",
+   "facility_name_en": "fitness"
+ },
+ {
+   "facility_id": 5,
+   "facility_name_th": "ระบบรักษาความปลอดภัย",
+   "facility_name_en": "security_system"
+ },
+ {
+   "facility_id": 6,
+   "facility_name_th": "สนามเด็กเล่น",
+   "facility_name_en": "playground"
+ }
+]

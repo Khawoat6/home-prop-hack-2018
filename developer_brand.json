@@ -1,0 +1,6014 @@
+[
+ {
+   "developer_id": 128,
+   "brand_id": 379,
+   "brand_name_th": "เอสต้า บลิซ",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 176,
+   "brand_id": 1496,
+   "brand_name_th": "บริษัท ชัยยุทธ เรียล เอสเตท จำกัด",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 226,
+   "brand_id": 1819,
+   "brand_name_th": "อะพูล คอนโด แอท บางนา ",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 143,
+   "brand_id": 1567,
+   "brand_name_th": "คาซ่า ฟรานซ์ เอแบค-บางนา",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 250,
+   "brand_id": 436,
+   "brand_name_th": "เลอ นีโอ",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 3588,
+   "brand_id": 442,
+   "brand_name_th": "",
+   "brand_name_en": "Chateau In Town"
+ },
+ {
+   "developer_id": 9339,
+   "brand_id": 1468,
+   "brand_name_th": "บริษัท คีย์ สตาร์ พร็อพเพอร์ตี้",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 9234,
+   "brand_id": 1602,
+   "brand_name_th": "พาร์ค วิลเลจ อ่อนนุช-สุวรรณภูมิ",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 3647,
+   "brand_id": 701,
+   "brand_name_th": "เชียงใหม่พฤกษาโฮม",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 6248,
+   "brand_id": 1346,
+   "brand_name_th": "รื่นฤดี 4 (รังสิต-คลอง 4)",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 15650,
+   "brand_id": 1768,
+   "brand_name_th": "เดอะ มาร์ค รัชดา-แอร์พอร์ตลิงค์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 6559,
+   "brand_id": 846,
+   "brand_name_th": "เอสเคป",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 1205,
+   "brand_id": 465,
+   "brand_name_th": "",
+   "brand_name_en": "Symphony"
+ },
+ {
+   "developer_id": 480,
+   "brand_id": 1806,
+   "brand_name_th": "คลาส หลังสวน",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 1145,
+   "brand_id": 823,
+   "brand_name_th": "เดอะ รอยัล เรสซิเดนซ์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 6168,
+   "brand_id": 1894,
+   "brand_name_th": "\\tมณีรินทร์ ไพรเวซี่ ศรีราชา",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 2761,
+   "brand_id": 1477,
+   "brand_name_th": "",
+   "brand_name_en": "Zennext"
+ },
+ {
+   "developer_id": 2486,
+   "brand_id": 641,
+   "brand_name_th": "ทาวน์พลัส เกษตร",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 20371,
+   "brand_id": 998,
+   "brand_name_th": "เบญญาภา คาซ่า",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 8466,
+   "brand_id": 1000,
+   "brand_name_th": "ปรีชา ร่มเกล้า",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 3047,
+   "brand_id": 722,
+   "brand_name_th": "โชติกา โนเวลตี้",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 17026,
+   "brand_id": 770,
+   "brand_name_th": "อารียา ทูบี",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 16789,
+   "brand_id": 1724,
+   "brand_name_th": "ยูทรี คอนโด แอท แยกเกษตร",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 19226,
+   "brand_id": 421,
+   "brand_name_th": "",
+   "brand_name_en": "Ashton"
+ },
+ {
+   "developer_id": 16549,
+   "brand_id": 1939,
+   "brand_name_th": "นนท์ณิชา บางใหญ่-แก้วอินทร์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 4149,
+   "brand_id": 817,
+   "brand_name_th": "",
+   "brand_name_en": "The Tuscana"
+ },
+ {
+   "developer_id": 19690,
+   "brand_id": 272,
+   "brand_name_th": "ริธึ่ม",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 13231,
+   "brand_id": 1565,
+   "brand_name_th": "เดอะ รีเจ้นท์ บาย โบ๊ทเฮ้าส์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 18524,
+   "brand_id": 271,
+   "brand_name_th": "",
+   "brand_name_en": "The Address"
+ },
+ {
+   "developer_id": 19839,
+   "brand_id": 1822,
+   "brand_name_th": "สไตล์ลิสท์ เชียงใหม่",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 5484,
+   "brand_id": 1817,
+   "brand_name_th": "ซันไรซ่า",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 12470,
+   "brand_id": 590,
+   "brand_name_th": "ดรีมวิลล์ 3",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 9437,
+   "brand_id": 2300,
+   "brand_name_th": "เอเรสมา วิลล่า",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 1000,
+   "brand_id": 564,
+   "brand_name_th": "บุณณดา",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 14404,
+   "brand_id": 929,
+   "brand_name_th": "ลิฟวิ่ง เรสซิเดนซ์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 3008,
+   "brand_id": 1281,
+   "brand_name_th": "แผ่นดินทอง ลิฟวิ่งโฮม",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 2589,
+   "brand_id": 362,
+   "brand_name_th": " โกลเด้น นีโอ",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 16546,
+   "brand_id": 419,
+   "brand_name_th": "",
+   "brand_name_en": "Suvarnabhumi Town"
+ },
+ {
+   "developer_id": 13380,
+   "brand_id": 718,
+   "brand_name_th": "กุลพันธ์วิลล์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 9381,
+   "brand_id": 1191,
+   "brand_name_th": "บ้านราชพฤกษ์ สุวรรณภูมิ-ลาดกระบัง",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 16024,
+   "brand_id": 888,
+   "brand_name_th": "นีโอ เดอ สยาม",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 7340,
+   "brand_id": 1393,
+   "brand_name_th": "S Beach Pattaya",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 246,
+   "brand_id": 1769,
+   "brand_name_th": "โมเสค",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 16792,
+   "brand_id": 1522,
+   "brand_name_th": "เดอะ คลาสซี่ รัชดาภิเษก 19",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 9279,
+   "brand_id": 1304,
+   "brand_name_th": "บ้านเพลิน",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 19727,
+   "brand_id": 2286,
+   "brand_name_th": "โมเบียส คอนโด",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 14616,
+   "brand_id": 1615,
+   "brand_name_th": "เดอะ โคสต์ แบงค็อก",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 17059,
+   "brand_id": 968,
+   "brand_name_th": "เพอร์เฟค เพลส เมืองเชียงใหม่",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 19845,
+   "brand_id": 720,
+   "brand_name_th": "บ้านธาราคีรี",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 12623,
+   "brand_id": 1177,
+   "brand_name_th": "วีน่า ทาวน์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 20250,
+   "brand_id": 794,
+   "brand_name_th": "ดิ แอลเลแกนซ์ เพชรเกษม 81",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 683,
+   "brand_id": 403,
+   "brand_name_th": "",
+   "brand_name_en": "THE STAR ESTATE"
+ },
+ {
+   "developer_id": 4709,
+   "brand_id": 464,
+   "brand_name_th": "",
+   "brand_name_en": "Vina Town"
+ },
+ {
+   "developer_id": 3348,
+   "brand_id": 1205,
+   "brand_name_th": "เศรณีทาวน์ วิภาวดี",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 3233,
+   "brand_id": 639,
+   "brand_name_th": "อิมพีเรียล พาร์ค",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 20551,
+   "brand_id": 1633,
+   "brand_name_th": "บียอนด์ สุขุมวิท",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 13323,
+   "brand_id": 814,
+   "brand_name_th": "ลิฟวิ่งนารา",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 5489,
+   "brand_id": 1525,
+   "brand_name_th": "บริษัท ซำ ซำ พร็อพเพอร์ตี้ จำกัด",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 6996,
+   "brand_id": 1389,
+   "brand_name_th": "",
+   "brand_name_en": "Riviera Group"
+ },
+ {
+   "developer_id": 2141,
+   "brand_id": 610,
+   "brand_name_th": "เดอะ คอนเนค",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 16551,
+   "brand_id": 329,
+   "brand_name_th": "",
+   "brand_name_en": "The Front Ladprao-Ratchada"
+ },
+ {
+   "developer_id": 5417,
+   "brand_id": 1871,
+   "brand_name_th": "เดอะไนน์ รังสิต-คลอง 9",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 12297,
+   "brand_id": 346,
+   "brand_name_th": "",
+   "brand_name_en": "THANASIO"
+ },
+ {
+   "developer_id": 20340,
+   "brand_id": 1793,
+   "brand_name_th": "เซ็นทริโอ้ ลาดพร้าว 48",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 7027,
+   "brand_id": 624,
+   "brand_name_th": "",
+   "brand_name_en": "ALIVE"
+ },
+ {
+   "developer_id": 3544,
+   "brand_id": 1006,
+   "brand_name_th": "เดอะ ไทม์ พาวิลเลี่ยน",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 7707,
+   "brand_id": 1306,
+   "brand_name_th": "บุราพันธ์ การ์เด้นท์วิลล์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 6140,
+   "brand_id": 1144,
+   "brand_name_th": "",
+   "brand_name_en": "FEEL"
+ },
+ {
+   "developer_id": 8106,
+   "brand_id": 2111,
+   "brand_name_th": "พรอมท์ คอนโด",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 2840,
+   "brand_id": 315,
+   "brand_name_th": "",
+   "brand_name_en": "Promenade Home"
+ },
+ {
+   "developer_id": 4159,
+   "brand_id": 138,
+   "brand_name_th": "โนโว วิลล์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 3056,
+   "brand_id": 820,
+   "brand_name_th": "มิลตัน เรสซิเดนซ์ รามอินทรา",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 2847,
+   "brand_id": 406,
+   "brand_name_th": "",
+   "brand_name_en": "Zen City"
+ },
+ {
+   "developer_id": 2997,
+   "brand_id": 1189,
+   "brand_name_th": "บ้าน ณ ชื่น",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 6332,
+   "brand_id": 570,
+   "brand_name_th": "",
+   "brand_name_en": "Viranya"
+ },
+ {
+   "developer_id": 12093,
+   "brand_id": 1050,
+   "brand_name_th": "การเคหะแห่งชาติ",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 8980,
+   "brand_id": 384,
+   "brand_name_th": "บ้านกรุงกวี",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 1032,
+   "brand_id": 338,
+   "brand_name_th": "สัมมากร ชัยพฤกษ์-วงแหวน ราชพฤกษ์ 345",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 3902,
+   "brand_id": 483,
+   "brand_name_th": "",
+   "brand_name_en": "Issara Residence "
+ },
+ {
+   "developer_id": 19814,
+   "brand_id": 1348,
+   "brand_name_th": "",
+   "brand_name_en": "Diya Valley Saraphi"
+ },
+ {
+   "developer_id": 7959,
+   "brand_id": 499,
+   "brand_name_th": "",
+   "brand_name_en": "Areeya Como"
+ },
+ {
+   "developer_id": 20189,
+   "brand_id": 1068,
+   "brand_name_th": "อินซิโอ้",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 15572,
+   "brand_id": 875,
+   "brand_name_th": "",
+   "brand_name_en": "Whizdom"
+ },
+ {
+   "developer_id": 4409,
+   "brand_id": 407,
+   "brand_name_th": "",
+   "brand_name_en": "Seahill Condo"
+ },
+ {
+   "developer_id": 8502,
+   "brand_id": 800,
+   "brand_name_th": "ทองสถิตย์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 19135,
+   "brand_id": 1398,
+   "brand_name_th": "ออริจินส์ บางมด-พระราม2",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 7307,
+   "brand_id": 1759,
+   "brand_name_th": "ฮิว สุขุมวิท",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 12741,
+   "brand_id": 1761,
+   "brand_name_th": "สกายวอล์ค คอนโดมิเนียม",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 17956,
+   "brand_id": 1825,
+   "brand_name_th": "มายรีสอร์ท แอท ริเวอร์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 8528,
+   "brand_id": 1786,
+   "brand_name_th": "แอท ซิตี้ สุขุมวิท 101/1",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 12122,
+   "brand_id": 1279,
+   "brand_name_th": "เอชเคป มิเนอร์ร่า",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 6952,
+   "brand_id": 943,
+   "brand_name_th": "สิริกานต์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 15720,
+   "brand_id": 1058,
+   "brand_name_th": "นิราวิลล์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 16133,
+   "brand_id": 779,
+   "brand_name_th": "",
+   "brand_name_en": "Pleno"
+ },
+ {
+   "developer_id": 20607,
+   "brand_id": 1416,
+   "brand_name_th": "เวเนเชี่ยน ซิกเนเจอร์ คอนโด รีสอร์ท พัทยา",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 2976,
+   "brand_id": 1231,
+   "brand_name_th": "บ้านทรัพย์ธานี 3 รังสิต คลอง 9",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 8018,
+   "brand_id": 883,
+   "brand_name_th": "โนเบิล คิวบ์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 19823,
+   "brand_id": 719,
+   "brand_name_th": "จีรัง เรสซิเดนท์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 9635,
+   "brand_id": 1951,
+   "brand_name_th": "แสนสุข ทาวน์ 2",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 10799,
+   "brand_id": 1263,
+   "brand_name_th": "",
+   "brand_name_en": "The Maple @ Ratchada - Ladprao"
+ },
+ {
+   "developer_id": 9129,
+   "brand_id": 1292,
+   "brand_name_th": "",
+   "brand_name_en": "My Place"
+ },
+ {
+   "developer_id": 7360,
+   "brand_id": 396,
+   "brand_name_th": "ร่มรื่น กรีน พาร์ค",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 818,
+   "brand_id": 5,
+   "brand_name_th": "",
+   "brand_name_en": "Perfect Place"
+ },
+ {
+   "developer_id": 6407,
+   "brand_id": 1311,
+   "brand_name_th": "ชิคโมเพลส 48",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 6251,
+   "brand_id": 1159,
+   "brand_name_th": "เดอ โซน",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 12971,
+   "brand_id": 364,
+   "brand_name_th": "ลุมพินี ซีวิว",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 3467,
+   "brand_id": 1698,
+   "brand_name_th": "ดิ เอนเนอร์จี้ หัวหิน",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 135611,
+   "brand_id": 594,
+   "brand_name_th": "เดอะ วิลโล่ ทาวน์โฮม",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 16534,
+   "brand_id": 1705,
+   "brand_name_th": "มีสไตล์ @สุขุมวิท-บางนา",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 13337,
+   "brand_id": 762,
+   "brand_name_th": "เนอวานา แอทเวิร์ค",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 20331,
+   "brand_id": 852,
+   "brand_name_th": "บ้านมารวย",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 135027,
+   "brand_id": 1858,
+   "brand_name_th": "วิจิตราธานี",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 5441,
+   "brand_id": 753,
+   "brand_name_th": "โกลเด้น วิลเลจ",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 3234,
+   "brand_id": 674,
+   "brand_name_th": "พาทาโกเนีย",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 16817,
+   "brand_id": 1677,
+   "brand_name_th": "เดอะ ริทซ์-คาร์ลตัน เรสซิเดนเซส บางกอก",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 15159,
+   "brand_id": 862,
+   "brand_name_th": "บ้านชิชากร",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 16605,
+   "brand_id": 933,
+   "brand_name_th": "นครทอง ลีฟวิ่ง",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 9905,
+   "brand_id": 117,
+   "brand_name_th": "ชาโตว์ อินทาวน์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 2509,
+   "brand_id": 922,
+   "brand_name_th": "ดิ แอมเบียนซ์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 4915,
+   "brand_id": 667,
+   "brand_name_th": "วิลล่า",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 4382,
+   "brand_id": 1022,
+   "brand_name_th": "บ้านคุณาภัทร",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 1093,
+   "brand_id": 441,
+   "brand_name_th": "",
+   "brand_name_en": "Leticia Residence"
+ },
+ {
+   "developer_id": 20605,
+   "brand_id": 1601,
+   "brand_name_th": "บางนา เรสซิเด้นซ์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 10916,
+   "brand_id": 869,
+   "brand_name_th": "นลิน เรสซิเดนซ์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 20906,
+   "brand_id": 636,
+   "brand_name_th": "ภณาสิริ เรสซิเด้นซ์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 20405,
+   "brand_id": 772,
+   "brand_name_th": "เพลินจิต คอลลิน่า",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 12222,
+   "brand_id": 1132,
+   "brand_name_th": "โมทีฟ",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 17223,
+   "brand_id": 963,
+   "brand_name_th": "เวอรีเดียน ราชพฤกษ์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 9221,
+   "brand_id": 1720,
+   "brand_name_th": "เอส คอนโด",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 6349,
+   "brand_id": 622,
+   "brand_name_th": "พรีเมี่ยม เพลส",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 135162,
+   "brand_id": 1397,
+   "brand_name_th": "เดอะ เซ็นทรัล 2 อัสสัมชัญ-ศรีราชา",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 15816,
+   "brand_id": 1152,
+   "brand_name_th": "เทมโป วัน",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 2730,
+   "brand_id": 97,
+   "brand_name_th": "ชวนชื่น กรีนบาวด์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 20374,
+   "brand_id": 1049,
+   "brand_name_th": "รัตตนาวดี รีเจ้นท์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 322,
+   "brand_id": 1588,
+   "brand_name_th": "เดอะพาร์คแลนด์ รัชดา-วงศ์สว่าง",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 19214,
+   "brand_id": 443,
+   "brand_name_th": "บ้านชวนชมพาร์ค 2",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 10579,
+   "brand_id": 420,
+   "brand_name_th": "",
+   "brand_name_en": "Rich Park Loft"
+ },
+ {
+   "developer_id": 16554,
+   "brand_id": 1887,
+   "brand_name_th": "แมนแฮตตัน พาร์ค เรสิเดนซ์เซส",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 10641,
+   "brand_id": 854,
+   "brand_name_th": "เดอะ ลิฟวิ่ง นารายา",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 3494,
+   "brand_id": 540,
+   "brand_name_th": "วิลล่า อะคาเดีย ศรีนครินทร์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 17032,
+   "brand_id": 646,
+   "brand_name_th": "บ้านพิศาล",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 134919,
+   "brand_id": 366,
+   "brand_name_th": "เจ บิซ",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 9403,
+   "brand_id": 1563,
+   "brand_name_th": "ดิ เออร์บาโน่",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 5591,
+   "brand_id": 812,
+   "brand_name_th": "วิลล่า อะคาเดีย วัชรพล",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 135897,
+   "brand_id": 657,
+   "brand_name_th": "บ้านสุภาพร 11",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 16727,
+   "brand_id": 1078,
+   "brand_name_th": "เดอะ ล็อขสาม",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 1365,
+   "brand_id": 1780,
+   "brand_name_th": "วิช ซิกเนเจอร์ มิดทาวน์ สยาม",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 20251,
+   "brand_id": 394,
+   "brand_name_th": "วิสต้าวิลล์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 9477,
+   "brand_id": 1755,
+   "brand_name_th": "อมรวิลเลจ",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 19605,
+   "brand_id": 228,
+   "brand_name_th": "คาซ่า แกรนด์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 17517,
+   "brand_id": 887,
+   "brand_name_th": "สินนคร วิลล์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 13464,
+   "brand_id": 1374,
+   "brand_name_th": "เดอะ มิดด์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 1887,
+   "brand_id": 69,
+   "brand_name_th": "คาซ่า เลเจ้นด์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 12960,
+   "brand_id": 1620,
+   "brand_name_th": "",
+   "brand_name_en": "Ornsirin 6"
+ },
+ {
+   "developer_id": 15661,
+   "brand_id": 923,
+   "brand_name_th": "บ้านสวัสดี",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 5891,
+   "brand_id": 1456,
+   "brand_name_th": "บ้านบุญถาวร 5",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 9997,
+   "brand_id": 747,
+   "brand_name_th": "",
+   "brand_name_en": "The Fouriage"
+ },
+ {
+   "developer_id": 12914,
+   "brand_id": 2297,
+   "brand_name_th": "วิลล่า ฟลอร่า เชียงใหม่",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 3613,
+   "brand_id": 1725,
+   "brand_name_th": "ดิ ยูนีค เท็น ไนน์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 20236,
+   "brand_id": 1765,
+   "brand_name_th": "ฮิมมา เพรสทิจ ลิฟวิ่ง",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 14366,
+   "brand_id": 1461,
+   "brand_name_th": "ทัวร์มาลีน (ไลท์) สาทร-ตากสิน",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 9663,
+   "brand_id": 881,
+   "brand_name_th": "สาริน ซิตี้",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 3989,
+   "brand_id": 1011,
+   "brand_name_th": " บ้านทิพย์พิมาน",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 135029,
+   "brand_id": 1061,
+   "brand_name_th": "คลัสเตอร์เฮาส์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 922,
+   "brand_id": 1079,
+   "brand_name_th": "เดอะ คริสตัล คอนโด",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 14126,
+   "brand_id": 1642,
+   "brand_name_th": "เดอะเลค คอนโดมิเนียม",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 134963,
+   "brand_id": 1059,
+   "brand_name_th": "บ้านหลังสวน",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 9496,
+   "brand_id": 524,
+   "brand_name_th": "",
+   "brand_name_en": "The Lofts Asoke"
+ },
+ {
+   "developer_id": 20555,
+   "brand_id": 1635,
+   "brand_name_th": "",
+   "brand_name_en": "The Astra"
+ },
+ {
+   "developer_id": 19136,
+   "brand_id": 1007,
+   "brand_name_th": "พฤกษ์พิมาน 5",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 19826,
+   "brand_id": 775,
+   "brand_name_th": "ศิวาลัย วิลเลจ 4",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 15516,
+   "brand_id": 1549,
+   "brand_name_th": "ไดมอนด์ สุขุมวิท",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 4126,
+   "brand_id": 1366,
+   "brand_name_th": "เฮ์าส์ 23 รัชดา-ลาดพร้าว",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 8022,
+   "brand_id": 1614,
+   "brand_name_th": "ดิ แอสตัน @ หางดง",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 16874,
+   "brand_id": 1593,
+   "brand_name_th": "15 สุขุมวิท เรสซิเดนซ์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 20865,
+   "brand_id": 1071,
+   "brand_name_th": "เดอะ ทีค",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 18763,
+   "brand_id": 596,
+   "brand_name_th": "บ้าน ดี",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 10933,
+   "brand_id": 1296,
+   "brand_name_th": "ชญยลวิว",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 10781,
+   "brand_id": 1603,
+   "brand_name_th": "เดอะ แซงชัวรี หัวหิน",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 18320,
+   "brand_id": 849,
+   "brand_name_th": "ล้านนา มนตรา",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 4290,
+   "brand_id": 1192,
+   "brand_name_th": "ทรี คอนโด ลักซ์ สุขุมวิท 52",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 14248,
+   "brand_id": 220,
+   "brand_name_th": "เดอะทรัสต์ คอนโด",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 2129,
+   "brand_id": 1129,
+   "brand_name_th": "เซอร์เคิล",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 13841,
+   "brand_id": 573,
+   "brand_name_th": "โมโน",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 16555,
+   "brand_id": 957,
+   "brand_name_th": "เอ็มทาวน์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 15941,
+   "brand_id": 587,
+   "brand_name_th": "ไซมิส บลอสซั่ม แอท แฟชั่น",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 7338,
+   "brand_id": 1012,
+   "brand_name_th": "",
+   "brand_name_en": "MAESTRO"
+ },
+ {
+   "developer_id": 3256,
+   "brand_id": 1233,
+   "brand_name_th": "โฟร์ซีซั่น ราชพฤกษ์ - รัตนาธิเบศร์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 134514,
+   "brand_id": 1754,
+   "brand_name_th": "ดิ เอซ เอกมัย",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 3052,
+   "brand_id": 1166,
+   "brand_name_th": "ดิ เอสเคป",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 21073,
+   "brand_id": 1988,
+   "brand_name_th": "เดอะเพรสทีจ เพลินใจ 4",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 16813,
+   "brand_id": 1552,
+   "brand_name_th": "เดอะ วีวา คอนโด เพชรเกษม 68",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 20608,
+   "brand_id": 688,
+   "brand_name_th": "เดอะลิฟวิ่ง ศรีราชา",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 15606,
+   "brand_id": 1017,
+   "brand_name_th": "วิลลา อัลเบลโล่",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 8054,
+   "brand_id": 554,
+   "brand_name_th": "เดอะ เวอรีเดียน โฮม - กาญจนาภิเษก",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 20393,
+   "brand_id": 669,
+   "brand_name_th": "ภูมิใจนิเวศน์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 20516,
+   "brand_id": 1527,
+   "brand_name_th": "เขาใหญ่ ฟอเรสต้า",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 1294,
+   "brand_id": 630,
+   "brand_name_th": "เรสท์ ทาวน์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 10190,
+   "brand_id": 1476,
+   "brand_name_th": "อิสสระ คอลเลคชัน สาทร",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 2693,
+   "brand_id": 661,
+   "brand_name_th": "เดอะเชลเตอร์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 134969,
+   "brand_id": 671,
+   "brand_name_th": "",
+   "brand_name_en": "MAXIM GREEN VILLAGE"
+ },
+ {
+   "developer_id": 134744,
+   "brand_id": 546,
+   "brand_name_th": "กุลรดา ตลาดไท",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 8861,
+   "brand_id": 12,
+   "brand_name_th": "บ้านนันทวัน",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 9464,
+   "brand_id": 1054,
+   "brand_name_th": "แนช เรสซิเดนซ์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 15444,
+   "brand_id": 447,
+   "brand_name_th": "",
+   "brand_name_en": "Villa Lasalle"
+ },
+ {
+   "developer_id": 12733,
+   "brand_id": 1812,
+   "brand_name_th": "โว้ค เรสซิเด้นท์เชียล คอนโดมิเนียม สุขุมวิท 16",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 3935,
+   "brand_id": 1469,
+   "brand_name_th": "เดอะ เพรสซิเดนท์ เพชรเกษม-บางแค",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 20402,
+   "brand_id": 1092,
+   "brand_name_th": "อินเตอร์ ลักส์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 9720,
+   "brand_id": 1821,
+   "brand_name_th": "พาร์ค เอ็กซ์โซ เกษตร-นวมินทร์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 135264,
+   "brand_id": 1681,
+   "brand_name_th": "พรอมโต้ คอนโด รัชดา 32",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 134816,
+   "brand_id": 1886,
+   "brand_name_th": "อาร์ท แอท ทองหล่อ 25",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 16209,
+   "brand_id": 640,
+   "brand_name_th": "",
+   "brand_name_en": "Dream Ville"
+ },
+ {
+   "developer_id": 12848,
+   "brand_id": 749,
+   "brand_name_th": "มาลีรมย์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 13038,
+   "brand_id": 1685,
+   "brand_name_th": "สมาร์ทแลนด์ พาร์คฮิลล์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 19264,
+   "brand_id": 1137,
+   "brand_name_th": "ซัมเมอร์ การ์เด้นท์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 18537,
+   "brand_id": 637,
+   "brand_name_th": "บริติช พาร์ค",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 14219,
+   "brand_id": 625,
+   "brand_name_th": "ดิเอ็กซ์คลูซีฟ พัฒนาการ",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 10085,
+   "brand_id": 40,
+   "brand_name_th": "",
+   "brand_name_en": "Lalin Greenvile LUXE Home"
+ },
+ {
+   "developer_id": 17194,
+   "brand_id": 1543,
+   "brand_name_th": "โบทานิก้า เขาใหญ่",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 20381,
+   "brand_id": 1028,
+   "brand_name_th": "",
+   "brand_name_en": "The Idol"
+ },
+ {
+   "developer_id": 10071,
+   "brand_id": 2275,
+   "brand_name_th": "สตาร์ เอวีนิว 5",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 9777,
+   "brand_id": 650,
+   "brand_name_th": "เฮ้าส์ 35 แจ้งวัฒนะ",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 12999,
+   "brand_id": 1013,
+   "brand_name_th": "ลัดดาวิลล์ 4 ",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 20426,
+   "brand_id": 685,
+   "brand_name_th": "ดิ เอสตีม",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 5226,
+   "brand_id": 1182,
+   "brand_name_th": "เดอะ มาสเตอร์พีซ ซีนเนอรี่ ฮิลล์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 19552,
+   "brand_id": 1004,
+   "brand_name_th": "เดอะแกรนด์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 7043,
+   "brand_id": 1236,
+   "brand_name_th": "แกรนด์ ทาวน์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 20338,
+   "brand_id": 1312,
+   "brand_name_th": "เดอะแกรนด์ ทรัพย์ทวีประเสริฐ",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 10041,
+   "brand_id": 321,
+   "brand_name_th": "ดิเอกเซล พาร์ค",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 6337,
+   "brand_id": 808,
+   "brand_name_th": "บ้านนนทกร",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 20428,
+   "brand_id": 707,
+   "brand_name_th": "เดอะ พรอมมิเน้นซ์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 6772,
+   "brand_id": 538,
+   "brand_name_th": "เค.ซี. เลควิว",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 1583,
+   "brand_id": 1368,
+   "brand_name_th": "โดว์เช่ อุดมสุข",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 21075,
+   "brand_id": 541,
+   "brand_name_th": " เต็มสิริ วิลเลจ",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 1451,
+   "brand_id": 758,
+   "brand_name_th": "วิลล่า การ์เด้น 3",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 1831,
+   "brand_id": 1696,
+   "brand_name_th": "เดอะ แฮปปี้เนส",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 4151,
+   "brand_id": 1637,
+   "brand_name_th": "แอท อีสต์ คอนโดมิเนียม",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 2615,
+   "brand_id": 494,
+   "brand_name_th": "",
+   "brand_name_en": "SC Village ปลวกแดง-วังแขยง"
+ },
+ {
+   "developer_id": 306,
+   "brand_id": 2160,
+   "brand_name_th": "ดิ เอ็มเมอรัลด์ ซิตี้ไลฟ์ คอนโด ป่าตอง",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 1281,
+   "brand_id": 1256,
+   "brand_name_th": "โครงการถาวรวิลล่า",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 3012,
+   "brand_id": 871,
+   "brand_name_th": "ธนาพัฒน์ 360",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 4236,
+   "brand_id": 1241,
+   "brand_name_th": "C Space",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 3352,
+   "brand_id": 1644,
+   "brand_name_th": "เบ็ล แกรนด์ พระราม 9",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 779,
+   "brand_id": 107,
+   "brand_name_th": "",
+   "brand_name_en": "The Niche"
+ },
+ {
+   "developer_id": 4672,
+   "brand_id": 1424,
+   "brand_name_th": "บ้านฟ้าใส",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 16759,
+   "brand_id": 1119,
+   "brand_name_th": "กรีเน่ คอนโด",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 16790,
+   "brand_id": 1161,
+   "brand_name_th": "เดอะ ลักซ์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 134782,
+   "brand_id": 1727,
+   "brand_name_th": "เดอ รูฟ",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 16207,
+   "brand_id": 620,
+   "brand_name_th": "พนาสนธิ์ ไพรเวทโฮม",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 1047,
+   "brand_id": 1663,
+   "brand_name_th": "พาร์ค 24",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 3672,
+   "brand_id": 953,
+   "brand_name_th": "อีโค สเปซ",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 21005,
+   "brand_id": 1688,
+   "brand_name_th": "พายน์ คอนโดมิเนียม",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 19553,
+   "brand_id": 553,
+   "brand_name_th": "บ้านกรีน ลีฟ",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 20558,
+   "brand_id": 1799,
+   "brand_name_th": "เดอะ เมเปิล รัชดา 19",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 19841,
+   "brand_id": 1332,
+   "brand_name_th": "ริชชี่ ริช แลนด์ เชียงใหม่",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 20864,
+   "brand_id": 1672,
+   "brand_name_th": "เมย์แฟร์ เพลส สุขุมวิท 50",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 134683,
+   "brand_id": 1380,
+   "brand_name_th": "อากาศ เขาใหญ่",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 20629,
+   "brand_id": 1551,
+   "brand_name_th": "เอ็กเซลเล้นซ์ สุขุมวิท",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 16649,
+   "brand_id": 1287,
+   "brand_name_th": "",
+   "brand_name_en": "vario"
+ },
+ {
+   "developer_id": 19126,
+   "brand_id": 397,
+   "brand_name_th": "",
+   "brand_name_en": "The Inspire"
+ },
+ {
+   "developer_id": 134932,
+   "brand_id": 595,
+   "brand_name_th": "อาณา เอกมัย",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 20391,
+   "brand_id": 599,
+   "brand_name_th": "เดอะ กรีนเนอร์รี่ 8",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 20718,
+   "brand_id": 1899,
+   "brand_name_th": "เติมทรัพย์ ปาร์คฮิลล์ 2",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 20525,
+   "brand_id": 1224,
+   "brand_name_th": "เค พาร์ค",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 10831,
+   "brand_id": 1439,
+   "brand_name_th": "สิวารัตน์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 16630,
+   "brand_id": 1030,
+   "brand_name_th": "บ้านร็อคการ์เด้น",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 20228,
+   "brand_id": 1773,
+   "brand_name_th": "เอช สุขุมวิท 43",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 20526,
+   "brand_id": 1455,
+   "brand_name_th": "ซิลค์ เพลส พหลโยธิน - หลักสี่",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 16590,
+   "brand_id": 827,
+   "brand_name_th": " ธัญดา พาร์ควิว",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 136245,
+   "brand_id": 1728,
+   "brand_name_th": "เลอ ครีก สุขุมวิท 64/2",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 7002,
+   "brand_id": 539,
+   "brand_name_th": "อู่ทองเพลส 6",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 9485,
+   "brand_id": 1199,
+   "brand_name_th": "บ้านบุญยกร รังสิตคลอง 6",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 16774,
+   "brand_id": 1807,
+   "brand_name_th": "เอควา สุขุมวิท 49",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 10461,
+   "brand_id": 58,
+   "brand_name_th": "Q.TWELVE",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 1432,
+   "brand_id": 1430,
+   "brand_name_th": "ควอด สีลม",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 1640,
+   "brand_id": 1760,
+   "brand_name_th": "แลนด์มาร์ค เรสซิเดนท์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 137040,
+   "brand_id": 778,
+   "brand_name_th": "",
+   "brand_name_en": "Le Parc"
+ },
+ {
+   "developer_id": 8333,
+   "brand_id": 617,
+   "brand_name_th": "ฮาบิเทีย ออร์บิต หทัยราษฎร์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 8708,
+   "brand_id": 876,
+   "brand_name_th": "ธนาภิรมย์ นวนคร",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 6785,
+   "brand_id": 1446,
+   "brand_name_th": "ซิลค์ พหลโยธิน 9",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 136415,
+   "brand_id": 555,
+   "brand_name_th": "ดีลักซ์ทาวน์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 6297,
+   "brand_id": 522,
+   "brand_name_th": "ศิมันตรา",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 136286,
+   "brand_id": 556,
+   "brand_name_th": "C-Biz Home",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 137312,
+   "brand_id": 1647,
+   "brand_name_th": "พิงค์ เดอะ เซ็นเตอร์พีซ คอนโดมิเนียม",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 136697,
+   "brand_id": 970,
+   "brand_name_th": "นาราโฮม",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 136802,
+   "brand_id": 1425,
+   "brand_name_th": "คลาส สารสิน-ราชดำริ",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 4516,
+   "brand_id": 1176,
+   "brand_name_th": "กรีน พลัส มอลล์ 3",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 4731,
+   "brand_id": 444,
+   "brand_name_th": "กาญจนาลักษณ์-เทพศิรินทร์ วงแหวน-ปิ่นเกล้า",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 3548,
+   "brand_id": 867,
+   "brand_name_th": "ไพร์ม เกษตร",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 5194,
+   "brand_id": 999,
+   "brand_name_th": "บ้านเติมรัก 5",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 12861,
+   "brand_id": 412,
+   "brand_name_th": "101",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 137690,
+   "brand_id": 332,
+   "brand_name_th": "แกรนด์ วัลเลย์ สุขุมวิท-เลี่ยงหนองมน",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 136384,
+   "brand_id": 548,
+   "brand_name_th": "แกรนด์ คาแนล ดอนเมือง",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 511,
+   "brand_id": 1736,
+   "brand_name_th": "เดอะ ชาร์ม เรสซิเดนท์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 136472,
+   "brand_id": 651,
+   "brand_name_th": "ดิ เอ็กซ์คูลซีฟ",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 137856,
+   "brand_id": 313,
+   "brand_name_th": "โมดิซ สเตชั่น",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 139918,
+   "brand_id": 1207,
+   "brand_name_th": "ดิ แอเรีย บ้านเพ",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 139913,
+   "brand_id": 1523,
+   "brand_name_th": "บริษัท ซันวิว พร็อพเพอร์ตี้ จำกัด",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 1638,
+   "brand_id": 809,
+   "brand_name_th": "สยามไฮวิลล์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 138169,
+   "brand_id": 2208,
+   "brand_name_th": "พาเซ็นโต้",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 137812,
+   "brand_id": 1392,
+   "brand_name_th": "คุรุธานี ไพรเวซี่",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 137060,
+   "brand_id": 445,
+   "brand_name_th": "",
+   "brand_name_en": "Thanya Village"
+ },
+ {
+   "developer_id": 137780,
+   "brand_id": 404,
+   "brand_name_th": "",
+   "brand_name_en": "HOF Home & Office"
+ },
+ {
+   "developer_id": 137992,
+   "brand_id": 1369,
+   "brand_name_th": "วี คอนโดมิเนียม",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 1818,
+   "brand_id": 605,
+   "brand_name_th": "บ้านเปี่ยมสุข",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 16739,
+   "brand_id": 793,
+   "brand_name_th": "เดอ ตะวัน",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 19774,
+   "brand_id": 997,
+   "brand_name_th": "เอส คอนเซ็ปต์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 10427,
+   "brand_id": 549,
+   "brand_name_th": "แกรนด์วิลล์ ปทุมธานี-สายใน",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 19421,
+   "brand_id": 566,
+   "brand_name_th": "สตอรี่ส์ อ่อนนุช-วงแหวน",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 138986,
+   "brand_id": 781,
+   "brand_name_th": "",
+   "brand_name_en": "THE GREAT BANGYAI"
+ },
+ {
+   "developer_id": 4861,
+   "brand_id": 273,
+   "brand_name_th": "",
+   "brand_name_en": "RHYTHM "
+ },
+ {
+   "developer_id": 19870,
+   "brand_id": 398,
+   "brand_name_th": "",
+   "brand_name_en": "Navin Plus"
+ },
+ {
+   "developer_id": 18648,
+   "brand_id": 1753,
+   "brand_name_th": "ลาซานเทียร์ พอร์ชแลนด์ 5",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 13097,
+   "brand_id": 547,
+   "brand_name_th": "บ้านมัณฑิกา",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 137936,
+   "brand_id": 385,
+   "brand_name_th": "",
+   "brand_name_en": "Green Loft"
+ },
+ {
+   "developer_id": 16472,
+   "brand_id": 751,
+   "brand_name_th": "เวร่า บิสเน็ท",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140029,
+   "brand_id": 1390,
+   "brand_name_th": "ไดมอนด์ สวีท รีสอร์ท คอนโดมิเนียม เฟส 2",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 136636,
+   "brand_id": 2118,
+   "brand_name_th": "ซีรีโน แอร์พอร์ต",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 138136,
+   "brand_id": 1562,
+   "brand_name_th": "บ้านกลางใจ ระยอง",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 137884,
+   "brand_id": 1158,
+   "brand_name_th": "ชลรชา ทาวน์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 138009,
+   "brand_id": 724,
+   "brand_name_th": "แกรนด์ ล้านนา",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 138016,
+   "brand_id": 1794,
+   "brand_name_th": "ดิ เอส อโศก",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 138999,
+   "brand_id": 860,
+   "brand_name_th": "ฟีล ทาวน์ ลาดพร้าว",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 138180,
+   "brand_id": 2121,
+   "brand_name_th": "เดอะ ทูเก็ตเตอร์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 138163,
+   "brand_id": 1066,
+   "brand_name_th": "เดอะ เพนตัส",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 137348,
+   "brand_id": 653,
+   "brand_name_th": "เดอะ โมเมนท์ รามอินทรา",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 138186,
+   "brand_id": 1465,
+   "brand_name_th": "บริษัท คิวซี เอสเตท จำกัด",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 5100,
+   "brand_id": 1421,
+   "brand_name_th": "คณาพญา เรสซิเดนซ์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 138178,
+   "brand_id": 1175,
+   "brand_name_th": "บ้านทรัพย์วิมาน",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 138188,
+   "brand_id": 1202,
+   "brand_name_th": "ฮัมเบิล ลีฟวิ่ง แอด เฟื่องฟู",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 136694,
+   "brand_id": 2289,
+   "brand_name_th": "เดอะ ปาล์มการ์เด้น โครงการ 6",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 138998,
+   "brand_id": 562,
+   "brand_name_th": "เดอะแกลลอรี่เฮาส์ แพทเทิร์น",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140041,
+   "brand_id": 1841,
+   "brand_name_th": "",
+   "brand_name_en": "Victoria Garden Ville"
+ },
+ {
+   "developer_id": 139926,
+   "brand_id": 1251,
+   "brand_name_th": "มาสเตอร์เฮ้าส์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 138141,
+   "brand_id": 1534,
+   "brand_name_th": "เดอะ เรสซิเดนซ์ แอท แมนดาริน โอเรียนเต็ล กรุงเทพฯ",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 138626,
+   "brand_id": 1926,
+   "brand_name_th": "พลัส หาดใหญ่ 30 เมตร",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 138349,
+   "brand_id": 1576,
+   "brand_name_th": "บ้านกาญจน์สิริ",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 138397,
+   "brand_id": 1088,
+   "brand_name_th": "บ้านสามพรานวิลล์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 139513,
+   "brand_id": 1198,
+   "brand_name_th": "เดคโค คอนโดมิเนียม",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140045,
+   "brand_id": 1973,
+   "brand_name_th": "เดอะพาโน",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140046,
+   "brand_id": 848,
+   "brand_name_th": "วิลโลวส์ แอท บางเสร่",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 138724,
+   "brand_id": 440,
+   "brand_name_th": "ภาภิรมย์ พาร์ควิลล์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 138954,
+   "brand_id": 1098,
+   "brand_name_th": "สุชารี ไลฟ์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 138716,
+   "brand_id": 430,
+   "brand_name_th": "วี พร็อพเพอร์ตี้",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 138726,
+   "brand_id": 437,
+   "brand_name_th": "เอ็กซ์เท็น คอนโดมิเนียม",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 138531,
+   "brand_id": 1055,
+   "brand_name_th": "นีโอเฮ้าส์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 138707,
+   "brand_id": 431,
+   "brand_name_th": "กัลปพฤกษ์ เลควิว",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 138654,
+   "brand_id": 340,
+   "brand_name_th": "เดอะ คิวบ์ พลัส มีนบุรี",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 138720,
+   "brand_id": 438,
+   "brand_name_th": "เดอะ สปริงเพลส",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 1517,
+   "brand_id": 542,
+   "brand_name_th": "ไอลีฟ พาร์ค วงแหวน-รังสิตคลอง 4",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 7005,
+   "brand_id": 952,
+   "brand_name_th": "มายโฮม ซิลเวอร์เลค",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 11973,
+   "brand_id": 629,
+   "brand_name_th": "ไพรเวท เนอวานา เรสซิเดนซ์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 9661,
+   "brand_id": 1809,
+   "brand_name_th": "เจริญกรุง เพลส",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 7736,
+   "brand_id": 1738,
+   "brand_name_th": "ไบร์ท วงเวียนใหญ่",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 11644,
+   "brand_id": 1419,
+   "brand_name_th": "รีสอร์ทต้า เย็นอากาศ",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 1861,
+   "brand_id": 267,
+   "brand_name_th": "แอสปาย",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 11572,
+   "brand_id": 890,
+   "brand_name_th": "อิคอนเนเจอร์ ",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 138985,
+   "brand_id": 1136,
+   "brand_name_th": "เพลิน เพลิน",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 12136,
+   "brand_id": 975,
+   "brand_name_th": "นาราโฮม",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 11972,
+   "brand_id": 1179,
+   "brand_name_th": "H-Cape Serene",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 11686,
+   "brand_id": 755,
+   "brand_name_th": "เย็นสบายดี รัชดา 30",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 20267,
+   "brand_id": 756,
+   "brand_name_th": "อาร์เค พาร์ค (วัชรพล-สายไหม)",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 138989,
+   "brand_id": 1566,
+   "brand_name_th": "เดอะ พรีเว่",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 19766,
+   "brand_id": 1571,
+   "brand_name_th": "ดิ ยูนีค ลาดพร้าว 26",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 17135,
+   "brand_id": 822,
+   "brand_name_th": "คอร์ทยาร์ดวิลล่า",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 139552,
+   "brand_id": 711,
+   "brand_name_th": "โคราช บูเลอวาร์ด",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 20022,
+   "brand_id": 1910,
+   "brand_name_th": "ธาราวาน่า",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 138621,
+   "brand_id": 1375,
+   "brand_name_th": "สแตนด์อัพ คอนโด",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 18695,
+   "brand_id": 936,
+   "brand_name_th": "นนทวีวิลล์ 5",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 11826,
+   "brand_id": 1584,
+   "brand_name_th": "เดอะ นิว คอนเซปท์ พลู วิลล่า การ์เด้น วิว",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 11935,
+   "brand_id": 479,
+   "brand_name_th": "",
+   "brand_name_en": "Trendy Tara"
+ },
+ {
+   "developer_id": 140065,
+   "brand_id": 2249,
+   "brand_name_th": "ศักดิ์สายธาร",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140094,
+   "brand_id": 1655,
+   "brand_name_th": "ซี ดับเบิ้ลยู โอเชี่ยนวิว คอนโดมิเนียม",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 12512,
+   "brand_id": 409,
+   "brand_name_th": "",
+   "brand_name_en": "Golden Town"
+ },
+ {
+   "developer_id": 139556,
+   "brand_id": 1452,
+   "brand_name_th": "บริษัท คหการ จำกัด",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 138234,
+   "brand_id": 1503,
+   "brand_name_th": "ซูเคร เขาใหญ่ ฟอเรสต้า",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 138507,
+   "brand_id": 683,
+   "brand_name_th": "เปรมปรินทร์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 138853,
+   "brand_id": 1811,
+   "brand_name_th": "อัลติจูด",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 139565,
+   "brand_id": 439,
+   "brand_name_th": "บ้านพีเอสโฮม เหล่านาดี 3",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 138801,
+   "brand_id": 1481,
+   "brand_name_th": "เครือเอกมงคลกรุ๊ป ",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 138994,
+   "brand_id": 496,
+   "brand_name_th": "",
+   "brand_name_en": "The Perfect Hill"
+ },
+ {
+   "developer_id": 138746,
+   "brand_id": 1509,
+   "brand_name_th": "อาร์ทีมิส สุขุมวิท 77",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 138327,
+   "brand_id": 1321,
+   "brand_name_th": "น้ำทองอเวนิว",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 138236,
+   "brand_id": 695,
+   "brand_name_th": "บ้านชิดลม",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 138231,
+   "brand_id": 797,
+   "brand_name_th": "กรีนมอนทนา",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 138238,
+   "brand_id": 1669,
+   "brand_name_th": "ไวร์ รัชดา 19",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 19383,
+   "brand_id": 786,
+   "brand_name_th": "เดอะ พริวิลเลจ",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 138313,
+   "brand_id": 1099,
+   "brand_name_th": "ศรีตรังทาวน์ @ย่านตาขาว",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 138036,
+   "brand_id": 1648,
+   "brand_name_th": "คราฟท์ เพลินจิต",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 138980,
+   "brand_id": 1604,
+   "brand_name_th": "วีโน่ รัชดา 32",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 139656,
+   "brand_id": 1639,
+   "brand_name_th": "วิลล่า พาร์ค",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 138165,
+   "brand_id": 825,
+   "brand_name_th": "",
+   "brand_name_en": "CPN Ville"
+ },
+ {
+   "developer_id": 138122,
+   "brand_id": 666,
+   "brand_name_th": "วิลล่า บารานี",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 138164,
+   "brand_id": 1163,
+   "brand_name_th": "เดอะ คอนเน็กซ์ชั่น",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 138218,
+   "brand_id": 518,
+   "brand_name_th": "เดอะ มิราเคิล พลัส",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 138174,
+   "brand_id": 679,
+   "brand_name_th": "บ้านบุญถาวร 5",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 138283,
+   "brand_id": 945,
+   "brand_name_th": "บ้านสวนธนาวดี",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 138280,
+   "brand_id": 1252,
+   "brand_name_th": "เดอะ พีส",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 138293,
+   "brand_id": 1082,
+   "brand_name_th": "ดารียา วิลเลจ",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 138150,
+   "brand_id": 843,
+   "brand_name_th": "เดอะ เวนิสพาร์ค",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 138314,
+   "brand_id": 1107,
+   "brand_name_th": "วิลล่านาวา",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 138125,
+   "brand_id": 1539,
+   "brand_name_th": "",
+   "brand_name_en": "The Castell Khao Kho"
+ },
+ {
+   "developer_id": 138252,
+   "brand_id": 761,
+   "brand_name_th": "เดอะริช",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 138311,
+   "brand_id": 1097,
+   "brand_name_th": "บ้านเพิ่มสุข",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 138492,
+   "brand_id": 1057,
+   "brand_name_th": "เลอตัน ทาวน์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 138261,
+   "brand_id": 1074,
+   "brand_name_th": "บ้านชนากาญจน์ 5",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 138284,
+   "brand_id": 1949,
+   "brand_name_th": "แสนสุขทาวน์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 138463,
+   "brand_id": 1482,
+   "brand_name_th": "บริษัท เคออาร์เค บีช ดีเวลล๊อปเม้นท์ จำกัด",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 138493,
+   "brand_id": 856,
+   "brand_name_th": "ที59 เวสต์เกต",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 138382,
+   "brand_id": 708,
+   "brand_name_th": "เดอะ วีว่า อีโค่",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 138285,
+   "brand_id": 703,
+   "brand_name_th": "นิบบาน่า จอย",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 138461,
+   "brand_id": 700,
+   "brand_name_th": "ลำพูนฟลอริช",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 138468,
+   "brand_id": 670,
+   "brand_name_th": "เซ็นทรัลพาร์ค",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 139574,
+   "brand_id": 1134,
+   "brand_name_th": "เดอะ เฮาท์ โซลูชั่น",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 139000,
+   "brand_id": 925,
+   "brand_name_th": "แกรนด์ วิสดอม ",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 138322,
+   "brand_id": 482,
+   "brand_name_th": "",
+   "brand_name_en": "Tada Town Curve"
+ },
+ {
+   "developer_id": 138485,
+   "brand_id": 1570,
+   "brand_name_th": "ออโรร่า เขาพระตำหนัก",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 138387,
+   "brand_id": 1095,
+   "brand_name_th": "บ้าน ปณิตา",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 138420,
+   "brand_id": 649,
+   "brand_name_th": "ร่มทิพย์ ปาร์ค",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 2271,
+   "brand_id": 1656,
+   "brand_name_th": "เดอะ พอยท์ บ่อวิน",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 10708,
+   "brand_id": 1619,
+   "brand_name_th": "ทรีบูทีค คอนโดมิเนียม @นิมมาน",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 139617,
+   "brand_id": 1925,
+   "brand_name_th": "มงคลเลิศธานี 2",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 1276,
+   "brand_id": 1828,
+   "brand_name_th": "แอร์พอร์ต โฮม คอนโดมิเนียม",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 3203,
+   "brand_id": 805,
+   "brand_name_th": "บ้านธรรมชาติ",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 3602,
+   "brand_id": 996,
+   "brand_name_th": "ปิยทรัพย์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 12493,
+   "brand_id": 2291,
+   "brand_name_th": "สิริธารา คอนโดมิเนียม",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 14798,
+   "brand_id": 1550,
+   "brand_name_th": "พราว 3 คอนโดมิเนียม",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 15653,
+   "brand_id": 1364,
+   "brand_name_th": "\\tโซซิโอ ร่วมฤดี",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 3438,
+   "brand_id": 1165,
+   "brand_name_th": "อันนา คอนโด",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 14109,
+   "brand_id": 1611,
+   "brand_name_th": "เดอะ ซีรี่ส์ อุดมสุข 29",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 3751,
+   "brand_id": 1351,
+   "brand_name_th": "ไวโอ แคราย 1",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 5618,
+   "brand_id": 82,
+   "brand_name_th": "",
+   "brand_name_en": "Granada"
+ },
+ {
+   "developer_id": 16545,
+   "brand_id": 819,
+   "brand_name_th": "มายด์ ฮอฟฟ์ ร่มเกล้า",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 4618,
+   "brand_id": 1630,
+   "brand_name_th": "แอ็บสแตร็กส์ พหลโยธิน พาร์ค",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 6280,
+   "brand_id": 565,
+   "brand_name_th": "เดอะโมส มีนบุรี-สามวา",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 7132,
+   "brand_id": 757,
+   "brand_name_th": "",
+   "brand_name_en": "Rasa Maxx Ville"
+ },
+ {
+   "developer_id": 20453,
+   "brand_id": 1475,
+   "brand_name_th": "บริษัท เค โฮม แอสเซท จำกัด",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 139774,
+   "brand_id": 1746,
+   "brand_name_th": "บริษัท เอ-เวสท์ พร็อพเพอร์ตี้ จำกัด",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 139613,
+   "brand_id": 799,
+   "brand_name_th": "เขาใหญ่ พาโนวิลล์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 20851,
+   "brand_id": 2123,
+   "brand_name_th": "เดอะ โคลเวอร์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 139538,
+   "brand_id": 2130,
+   "brand_name_th": "ฟาทรีโอ",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 17143,
+   "brand_id": 1610,
+   "brand_name_th": "ละติจูด คอนโด",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 138984,
+   "brand_id": 1130,
+   "brand_name_th": "ฟลอเลส",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 139539,
+   "brand_id": 2135,
+   "brand_name_th": "เอช ลีฟวิ่ง สเปซ เครือสหพัฒน์-แหลมฉบัง",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 139570,
+   "brand_id": 1116,
+   "brand_name_th": "แอทไลฟ์ เอ็กซ์คลูซีฟ",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 139609,
+   "brand_id": 1302,
+   "brand_name_th": "ภูรินารา",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 139558,
+   "brand_id": 1449,
+   "brand_name_th": "ดิ เอ็มไพร์ (สามแยกปัก)",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 139573,
+   "brand_id": 668,
+   "brand_name_th": "เจเจเลควิวปาร์ค",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 139607,
+   "brand_id": 1429,
+   "brand_name_th": "แกรนด์มิราเคิล",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 139740,
+   "brand_id": 710,
+   "brand_name_th": "กรีนฟิลด์วิลล่า",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 138427,
+   "brand_id": 2152,
+   "brand_name_th": "บ้านพิชชา",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 139625,
+   "brand_id": 723,
+   "brand_name_th": "เออเบิน นารา",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 139770,
+   "brand_id": 725,
+   "brand_name_th": "แกรนด์ เซ็นทรัล พาร์ค",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 139827,
+   "brand_id": 1510,
+   "brand_name_th": "ซี.ซี. คอนโดมิเนียม 2",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 139614,
+   "brand_id": 1216,
+   "brand_name_th": "เดอะ โคโลเนียล",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 139685,
+   "brand_id": 1548,
+   "brand_name_th": "เอสเซ็นท์ ขอนแก่น",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 139632,
+   "brand_id": 611,
+   "brand_name_th": "อนินทาวน์ เทียนทะเล 7",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 138599,
+   "brand_id": 1767,
+   "brand_name_th": "มิติ คอนโด",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 139620,
+   "brand_id": 1133,
+   "brand_name_th": "เดอะ เฮ้าส์โอโซเนีย",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 139846,
+   "brand_id": 1121,
+   "brand_name_th": "พรภิรมย์  สาย 11",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 139590,
+   "brand_id": 1941,
+   "brand_name_th": "",
+   "brand_name_en": "The Scenery Park"
+ },
+ {
+   "developer_id": 138912,
+   "brand_id": 697,
+   "brand_name_th": "คลาสสิค การ์เด้น โฮม",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 138706,
+   "brand_id": 1524,
+   "brand_name_th": "ณ วรา เรสซิเดนซ์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 139624,
+   "brand_id": 1479,
+   "brand_name_th": "บ้านภูดิศรา",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 139540,
+   "brand_id": 1167,
+   "brand_name_th": "คูล",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 139829,
+   "brand_id": 1990,
+   "brand_name_th": "",
+   "brand_name_en": "Andromeda "
+ },
+ {
+   "developer_id": 139507,
+   "brand_id": 606,
+   "brand_name_th": "ดิ เอลลิเมนท์ พระราม 9",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140009,
+   "brand_id": 796,
+   "brand_name_th": "เดอะ ลิฟวิ่ง",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140048,
+   "brand_id": 837,
+   "brand_name_th": "เพลินไพลิน แปลงยาว",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 139795,
+   "brand_id": 1259,
+   "brand_name_th": "",
+   "brand_name_en": "Seven Seas Condo"
+ },
+ {
+   "developer_id": 140022,
+   "brand_id": 1678,
+   "brand_name_th": "เวเนเชี่ยน ซิกเนเจอร์ คอนโด รีสอร์ท พัทยา",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140020,
+   "brand_id": 1657,
+   "brand_name_th": "เดอะ วินเนอร์ คอนโด",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140300,
+   "brand_id": 614,
+   "brand_name_th": "พนาสนธิ์ วิลล่า ",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140313,
+   "brand_id": 1381,
+   "brand_name_th": "แอบาทะเล คอนโดมิเนียม แอท จอมเทียน บีช",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140160,
+   "brand_id": 1056,
+   "brand_name_th": "อารีย์ วิลล์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 139533,
+   "brand_id": 804,
+   "brand_name_th": "เดอะ มาสเตอร์ @ BTS อุดมสุข",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 139001,
+   "brand_id": 1020,
+   "brand_name_th": "เดอะ ฟลอรา",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 20502,
+   "brand_id": 1385,
+   "brand_name_th": "",
+   "brand_name_en": "Porch Land Group Development"
+ },
+ {
+   "developer_id": 139514,
+   "brand_id": 576,
+   "brand_name_th": "ชีวารมย์ รังสิต-ดอนเมือง",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 139535,
+   "brand_id": 1135,
+   "brand_name_th": "โว้ค เพลส ",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 138992,
+   "brand_id": 402,
+   "brand_name_th": "",
+   "brand_name_en": "Charm"
+ },
+ {
+   "developer_id": 138990,
+   "brand_id": 782,
+   "brand_name_th": "เดอะเบสท์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 139536,
+   "brand_id": 1417,
+   "brand_name_th": "โกรว รัตนาธิเบศร์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 139534,
+   "brand_id": 1801,
+   "brand_name_th": "ศาลายา คอนโด",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140175,
+   "brand_id": 2206,
+   "brand_name_th": "อาร์ท ออน เดอะ บีช คอนโดมิเนียม ",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140191,
+   "brand_id": 1150,
+   "brand_name_th": "เลอ บารอค ",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 139633,
+   "brand_id": 942,
+   "brand_name_th": "เดอะ พาร์ค 2",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 139730,
+   "brand_id": 1555,
+   "brand_name_th": "บ้านสวนธารา",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 139693,
+   "brand_id": 1961,
+   "brand_name_th": "โอฮาน่า คอนโด",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140225,
+   "brand_id": 693,
+   "brand_name_th": "อมายา ฮิลล์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 139670,
+   "brand_id": 1502,
+   "brand_name_th": "ชิค คอนโด",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 139676,
+   "brand_id": 1959,
+   "brand_name_th": "",
+   "brand_name_en": "Luxury Condominium"
+ },
+ {
+   "developer_id": 139683,
+   "brand_id": 2211,
+   "brand_name_th": "",
+   "brand_name_en": "El Cielo condo"
+ },
+ {
+   "developer_id": 139735,
+   "brand_id": 1984,
+   "brand_name_th": "",
+   "brand_name_en": "Green Park"
+ },
+ {
+   "developer_id": 139732,
+   "brand_id": 381,
+   "brand_name_th": "123 RESIDENCE",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 139733,
+   "brand_id": 690,
+   "brand_name_th": "9999 วิลเลจ",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140216,
+   "brand_id": 418,
+   "brand_name_th": "บุญรักษาวิลล์ 2",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140235,
+   "brand_id": 2124,
+   "brand_name_th": "อีสเทิร์น วิลเลจ",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 139729,
+   "brand_id": 774,
+   "brand_name_th": "บ้านสวนคูน",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 139708,
+   "brand_id": 678,
+   "brand_name_th": "เดอะ ลีฟวิ่ง",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140199,
+   "brand_id": 954,
+   "brand_name_th": "",
+   "brand_name_en": "ZENTE"
+ },
+ {
+   "developer_id": 140244,
+   "brand_id": 1060,
+   "brand_name_th": "แอท นอร์ท",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140201,
+   "brand_id": 1190,
+   "brand_name_th": "บ้านใจสุข",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 138422,
+   "brand_id": 1065,
+   "brand_name_th": "บ้านปวริศา",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 139746,
+   "brand_id": 1709,
+   "brand_name_th": "คลับ ควอเตอร์ส คอนโดมิเนียม บางเสร่",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 20521,
+   "brand_id": 77,
+   "brand_name_th": "กัสโต้ ทาวน์โฮม",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 139747,
+   "brand_id": 1257,
+   "brand_name_th": "อาคาเดีย บีช รีสอร์ท",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 138388,
+   "brand_id": 1423,
+   "brand_name_th": "บ้านพิมพฤกษา",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 139807,
+   "brand_id": 681,
+   "brand_name_th": "บูรพาแลนด์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 139822,
+   "brand_id": 840,
+   "brand_name_th": "คุณกร",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 139852,
+   "brand_id": 1168,
+   "brand_name_th": "ซี เอกมัย",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 139797,
+   "brand_id": 1545,
+   "brand_name_th": "ซี แม็ค คอนโดมิเนียม",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 16725,
+   "brand_id": 1080,
+   "brand_name_th": "เอ พลัส อินสไปร์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 139893,
+   "brand_id": 2212,
+   "brand_name_th": "ณิชาวิลล์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 139891,
+   "brand_id": 684,
+   "brand_name_th": "รัตนากร",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 139904,
+   "brand_id": 1484,
+   "brand_name_th": "ภัทรา ไพร์ม",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 139815,
+   "brand_id": 417,
+   "brand_name_th": "",
+   "brand_name_en": "Panya Complex"
+ },
+ {
+   "developer_id": 139847,
+   "brand_id": 919,
+   "brand_name_th": "พรีซีโอ พาร์ค อมตะซิตี้-บ่อวิน",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 139877,
+   "brand_id": 1307,
+   "brand_name_th": "เลอมาน ธัญญะ",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 139895,
+   "brand_id": 1608,
+   "brand_name_th": "เดอะ กรีนเนอรี่ คอนโด บ่อวิน",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 139865,
+   "brand_id": 1124,
+   "brand_name_th": "พานาวิว 5",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 139801,
+   "brand_id": 1353,
+   "brand_name_th": "บ้านอุไรสิริ",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 139965,
+   "brand_id": 2245,
+   "brand_name_th": "ร่มเย็น 2 ปลวกแดง-วังตาผิน",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 139931,
+   "brand_id": 1212,
+   "brand_name_th": "เดอะ เกรท ทาวน์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 139943,
+   "brand_id": 1703,
+   "brand_name_th": "เดอะ ทรี ทาวน์โฮม",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 139798,
+   "brand_id": 1535,
+   "brand_name_th": "บริษัท ซี สราญ กรุ๊ป จำกัด",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 139964,
+   "brand_id": 1220,
+   "brand_name_th": "",
+   "brand_name_en": "The Next Asset"
+ },
+ {
+   "developer_id": 16028,
+   "brand_id": 802,
+   "brand_name_th": "",
+   "brand_name_en": "WESTERN TOWN"
+ },
+ {
+   "developer_id": 13669,
+   "brand_id": 552,
+   "brand_name_th": "สุชารี ",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 5168,
+   "brand_id": 634,
+   "brand_name_th": "บ้านต้นไม้ ดอนเมือง",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 139885,
+   "brand_id": 1391,
+   "brand_name_th": "ดิ โอเรียนท์ รีสอร์ท แอนด์ สปา",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 139908,
+   "brand_id": 1378,
+   "brand_name_th": "มอนิงตั้น ฮิลล์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 139883,
+   "brand_id": 2009,
+   "brand_name_th": "เดอะปาล์ม พลาบีช",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140417,
+   "brand_id": 1586,
+   "brand_name_th": "เดอะ นิว คอนเซปท์ ออฟฟิศ พลัส",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140423,
+   "brand_id": 1143,
+   "brand_name_th": "ใจแก้วเอราวัณ",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 10372,
+   "brand_id": 1818,
+   "brand_name_th": "ดีคอน ไพร์ม แอท รัตนาธิเบศร์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 8259,
+   "brand_id": 1748,
+   "brand_name_th": "เดอะ พรอพ คอนโดมิเนียม",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 11149,
+   "brand_id": 995,
+   "brand_name_th": "ปัญฐิญา",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 11515,
+   "brand_id": 469,
+   "brand_name_th": "",
+   "brand_name_en": "AQ SHADI"
+ },
+ {
+   "developer_id": 7835,
+   "brand_id": 944,
+   "brand_name_th": "สราญสิริ ติวานนท์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 8860,
+   "brand_id": 401,
+   "brand_name_th": "",
+   "brand_name_en": "SPACE "
+ },
+ {
+   "developer_id": 136142,
+   "brand_id": 689,
+   "brand_name_th": "เดอะพลีนารี่",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 20850,
+   "brand_id": 1450,
+   "brand_name_th": "วินเซ็นโต้ เขาใหญ่",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140028,
+   "brand_id": 1616,
+   "brand_name_th": "เดอะ ไฮ ริเวอร์ พาร์ค",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140314,
+   "brand_id": 1668,
+   "brand_name_th": "โอเชี่ยน แปซิฟิค นาจอมเทียน",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140010,
+   "brand_id": 811,
+   "brand_name_th": "",
+   "brand_name_en": "The Lux Villa"
+ },
+ {
+   "developer_id": 139949,
+   "brand_id": 1556,
+   "brand_name_th": "เดอะ ซีเนต เรสซิเดนซ์ 2",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 139972,
+   "brand_id": 2219,
+   "brand_name_th": "เดอะ พราว ระยอง",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140031,
+   "brand_id": 2246,
+   "brand_name_th": "ทริปเปิ้ล ทรี คอนโดมิเนียม",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 139953,
+   "brand_id": 1493,
+   "brand_name_th": "บริษัท จี.เค แบงค์คอก จำกัด",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140050,
+   "brand_id": 1660,
+   "brand_name_th": "ศรีเทพไทย พาร์ค วิลล์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 139994,
+   "brand_id": 1180,
+   "brand_name_th": "รินรดา พาร์ค วิลล์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 139990,
+   "brand_id": 1787,
+   "brand_name_th": "เดอะ ริเวียร่า จอมเทียน",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 139974,
+   "brand_id": 1435,
+   "brand_name_th": "เดอะ ไพน์ สุขุมวิท - แหลมฉบัง",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140360,
+   "brand_id": 1653,
+   "brand_name_th": "ดิ ไอดีล คอนโดมิเนียม หาดใหญ่",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 6924,
+   "brand_id": 1464,
+   "brand_name_th": "ดีไซน์ คอนโด รัชดา 18",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 16801,
+   "brand_id": 1222,
+   "brand_name_th": "เอสตาเบ พหลโยธิน 18",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 19819,
+   "brand_id": 2295,
+   "brand_name_th": "บ้านปาริชาต",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 20021,
+   "brand_id": 647,
+   "brand_name_th": "เดอะปาร์ค @ แฟชั่น",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 21003,
+   "brand_id": 656,
+   "brand_name_th": "เบล็สทาวน์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 20280,
+   "brand_id": 776,
+   "brand_name_th": "ธัญญ วิลเลจ",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 18581,
+   "brand_id": 2097,
+   "brand_name_th": "อาทิสาน รัชดา",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 16740,
+   "brand_id": 616,
+   "brand_name_th": "พนาสนธิ์ วิลล่า",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 666,
+   "brand_id": 1507,
+   "brand_name_th": "ไอ-เฮ้าส์ พระราม 9-เอกมัย",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 139935,
+   "brand_id": 1971,
+   "brand_name_th": "",
+   "brand_name_en": "THE SHOP"
+ },
+ {
+   "developer_id": 6465,
+   "brand_id": 1053,
+   "brand_name_th": "นราวัลล์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140125,
+   "brand_id": 1488,
+   "brand_name_th": "โครงการ แพลททินั่ม เพลส คอนโด 6",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 13492,
+   "brand_id": 939,
+   "brand_name_th": "ไอฟีล บางนา",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 16122,
+   "brand_id": 1377,
+   "brand_name_th": "โหมด สุขุมวิท 61",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 16793,
+   "brand_id": 1370,
+   "brand_name_th": "สราญวิลล์ @ แฮปปี้แลนด์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 16624,
+   "brand_id": 1015,
+   "brand_name_th": "",
+   "brand_name_en": "The Extenso 2"
+ },
+ {
+   "developer_id": 10657,
+   "brand_id": 1595,
+   "brand_name_th": "พาร์ค อรัญ บูเลอวาร์ด",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 13101,
+   "brand_id": 660,
+   "brand_name_th": "บ้านมนเทียรทิพย์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 12939,
+   "brand_id": 1462,
+   "brand_name_th": "บริษัท คิงดอม พร็อพเพอร์ตี้ จำกัด",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 2895,
+   "brand_id": 222,
+   "brand_name_th": "23 องศา วิลล่า",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140473,
+   "brand_id": 1114,
+   "brand_name_th": "ไอ วิลเลจ",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 8916,
+   "brand_id": 1483,
+   "brand_name_th": "เดอะ ไนน์ คอนโดมิเนียม 3",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 19381,
+   "brand_id": 754,
+   "brand_name_th": "แอสเทรา เรสซิเดนซ์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 20118,
+   "brand_id": 1142,
+   "brand_name_th": "พิลโล่ 142",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 6731,
+   "brand_id": 1774,
+   "brand_name_th": "วอเตอร์ฟอร์ด สุขุมวิท 50",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140247,
+   "brand_id": 1064,
+   "brand_name_th": "โอโซน ฮิลล์ พระตำหนัก",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140162,
+   "brand_id": 845,
+   "brand_name_th": "อีสเทิร์น พาร์ควิลล์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 9772,
+   "brand_id": 1094,
+   "brand_name_th": "ซีน คอนโด",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 12579,
+   "brand_id": 745,
+   "brand_name_th": "พรไพลิน ธรธารา",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 6719,
+   "brand_id": 589,
+   "brand_name_th": "ณ ราธร",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 1392,
+   "brand_id": 1777,
+   "brand_name_th": "เดอะ ไลท์ นิวยอร์ค",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 1955,
+   "brand_id": 1498,
+   "brand_name_th": "ดิ แอลโคฟ สุขุมวิท 49",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140569,
+   "brand_id": 2084,
+   "brand_name_th": "",
+   "brand_name_en": "dusitD2 Residence Hua Hin"
+ },
+ {
+   "developer_id": 19844,
+   "brand_id": 702,
+   "brand_name_th": "บ้านบุรีทาน่า",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140581,
+   "brand_id": 659,
+   "brand_name_th": "บ้านสุขนิเวศน์ 7",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140671,
+   "brand_id": 2072,
+   "brand_name_th": "",
+   "brand_name_en": " Landmark Life ราชภัฏฯ"
+ },
+ {
+   "developer_id": 140628,
+   "brand_id": 913,
+   "brand_name_th": "",
+   "brand_name_en": "THE RIVER"
+ },
+ {
+   "developer_id": 140580,
+   "brand_id": 1063,
+   "brand_name_th": "บ้านศรีสุข",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140565,
+   "brand_id": 1795,
+   "brand_name_th": "แดน ลิฟวิ่ง พระราม 9-แอร์พอร์ต ลิงก์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 5256,
+   "brand_id": 1511,
+   "brand_name_th": "เดอะ โมนาเวล เพชรเกษม 39",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 19699,
+   "brand_id": 399,
+   "brand_name_th": "รัชฎากาญจน์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140101,
+   "brand_id": 1966,
+   "brand_name_th": "นราศิริ 2",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 3807,
+   "brand_id": 1919,
+   "brand_name_th": "เดอะ สปิริต",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140287,
+   "brand_id": 1857,
+   "brand_name_th": "วัน ทาวน์เวอร์ พระตำหนัก",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 16749,
+   "brand_id": 1805,
+   "brand_name_th": "พรีเว่ บาย แสนสิริ",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 137628,
+   "brand_id": 1784,
+   "brand_name_th": "สินธร เรสซิเดนซ์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 138685,
+   "brand_id": 1505,
+   "brand_name_th": "",
+   "brand_name_en": "Swan Lake Residence Khao Yai"
+ },
+ {
+   "developer_id": 7733,
+   "brand_id": 746,
+   "brand_name_th": "บ้านประภาทรัพย์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 2732,
+   "brand_id": 921,
+   "brand_name_th": "ซื่อตรง แกรนด์ วิลล์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 136922,
+   "brand_id": 909,
+   "brand_name_th": "เมโทรทาวน์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 137448,
+   "brand_id": 1147,
+   "brand_name_th": "ออคิด พาร์ค",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 139802,
+   "brand_id": 1295,
+   "brand_name_th": "บ้านเอกสิริ",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 138922,
+   "brand_id": 1907,
+   "brand_name_th": "",
+   "brand_name_en": "JRY Condominium"
+ },
+ {
+   "developer_id": 138714,
+   "brand_id": 461,
+   "brand_name_th": "เดอะน๊อตติ้ง ฮิลล์ มหาสารคาม",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 17036,
+   "brand_id": 584,
+   "brand_name_th": "พรีเมี่ยม บางบัวทอง 340",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140413,
+   "brand_id": 1486,
+   "brand_name_th": "โครงการ เดอะยูนีค @ รวมโชค",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140530,
+   "brand_id": 1467,
+   "brand_name_th": "K.Riztown",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140459,
+   "brand_id": 1294,
+   "brand_name_th": "เดอะเดคโค่",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 4549,
+   "brand_id": 915,
+   "brand_name_th": "เดอะ พาร์ค เลน",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140514,
+   "brand_id": 1105,
+   "brand_name_th": "พลินวิลล์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140535,
+   "brand_id": 1303,
+   "brand_name_th": "",
+   "brand_name_en": "CHIC DISTRICT"
+ },
+ {
+   "developer_id": 19536,
+   "brand_id": 1826,
+   "brand_name_th": "สวิฟท์ คอนโด",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 12595,
+   "brand_id": 1568,
+   "brand_name_th": "เดอะริช เพอร์เฟค ศรีราชา-สวนเสือ",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 3944,
+   "brand_id": 1021,
+   "brand_name_th": "เดอะไพรเวท",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140537,
+   "brand_id": 577,
+   "brand_name_th": "เดอะ ซิมโฟนี่",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140351,
+   "brand_id": 345,
+   "brand_name_th": "",
+   "brand_name_en": "West Ville"
+ },
+ {
+   "developer_id": 14314,
+   "brand_id": 1824,
+   "brand_name_th": "เรสซิเดนซ์ 52 แอท บีทีเอส อ่อนนุช",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 139767,
+   "brand_id": 1700,
+   "brand_name_th": "คอสตา วิลเลจ พลู เรสซิเด้นท์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 8998,
+   "brand_id": 1232,
+   "brand_name_th": "",
+   "brand_name_en": "The Posh"
+ },
+ {
+   "developer_id": 139703,
+   "brand_id": 1299,
+   "brand_name_th": "ธารารมย์ โคราช",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 8559,
+   "brand_id": 567,
+   "brand_name_th": "",
+   "brand_name_en": "Baan Sathaporn"
+ },
+ {
+   "developer_id": 140552,
+   "brand_id": 1651,
+   "brand_name_th": "ดิออสการ์ คอนโด เพชรเกษม 58",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140589,
+   "brand_id": 1699,
+   "brand_name_th": "มิราจ สุขุมวิท 27",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140592,
+   "brand_id": 574,
+   "brand_name_th": "เดอะ ชานซ์ บรมราชชนนี-สาย 5",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 20341,
+   "brand_id": 1859,
+   "brand_name_th": "เดอะมิวส์โฮม",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140595,
+   "brand_id": 1776,
+   "brand_name_th": "วิแวนเต้ คอนโด แอท สวนหลวง",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140594,
+   "brand_id": 1712,
+   "brand_name_th": "เมซอง การ์เด้น",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 6840,
+   "brand_id": 2,
+   "brand_name_th": "บ้านฟ้าปิยรมย์เทอร์เร่",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140568,
+   "brand_id": 792,
+   "brand_name_th": "ศักยะ 146 เอกมัย",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 20234,
+   "brand_id": 857,
+   "brand_name_th": "กรีนิช รามอินทรา",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140511,
+   "brand_id": 773,
+   "brand_name_th": "กรรัฐ",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 138172,
+   "brand_id": 686,
+   "brand_name_th": "บ้านศักดิ์ทิพย์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 139778,
+   "brand_id": 841,
+   "brand_name_th": "คริสตัลทาวน์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 137633,
+   "brand_id": 842,
+   "brand_name_th": "เดอะ แกรนด์ ธนาพร",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 568,
+   "brand_id": 1723,
+   "brand_name_th": "ควาโซ สุขุมวิท 5",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 9845,
+   "brand_id": 1025,
+   "brand_name_th": "หมู่บ้านธาราปุระ ศรีราชา เฟส 2",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140315,
+   "brand_id": 1262,
+   "brand_name_th": "โอเชี่ยน เกท",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 138900,
+   "brand_id": 1497,
+   "brand_name_th": "โมนีค สุขุมวิท 64",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 19792,
+   "brand_id": 1591,
+   "brand_name_th": "เวลล์ ไลฟ์ รังสิต",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140439,
+   "brand_id": 1695,
+   "brand_name_th": "วิลล่า มีสุข เรสซิเดนท์เซส",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140441,
+   "brand_id": 2285,
+   "brand_name_th": "ซีรีนพาร์ค",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140549,
+   "brand_id": 1756,
+   "brand_name_th": "เดอะ จีอีโอ การ์ดิน คอนโดมิเนียม",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140540,
+   "brand_id": 787,
+   "brand_name_th": "เดอะ ไพร์ม",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 16591,
+   "brand_id": 836,
+   "brand_name_th": "ปัญฐิญา",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 20284,
+   "brand_id": 1230,
+   "brand_name_th": "B Style",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140436,
+   "brand_id": 1181,
+   "brand_name_th": "เดอะ แซงค์ทั่ม เชียงใหม่",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140533,
+   "brand_id": 1091,
+   "brand_name_th": "บ้านนับดาว 4",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140553,
+   "brand_id": 593,
+   "brand_name_th": "เดอะฟอร์จูน",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140428,
+   "brand_id": 2115,
+   "brand_name_th": "เดอะ วีดี้ คอนโดมิเนียม",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 138640,
+   "brand_id": 2218,
+   "brand_name_th": "เดอะ แลนด์สเคป",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140330,
+   "brand_id": 1922,
+   "brand_name_th": "โมโน",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 138722,
+   "brand_id": 1905,
+   "brand_name_th": "G9 Condo",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 139897,
+   "brand_id": 1382,
+   "brand_name_th": "พาราไดซ์ โอเชียน วิว",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 10563,
+   "brand_id": 1283,
+   "brand_name_th": "",
+   "brand_name_en": "The Iyara Grande"
+ },
+ {
+   "developer_id": 11191,
+   "brand_id": 1530,
+   "brand_name_th": "ไลบรารี่ เฮ้าซ์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 139690,
+   "brand_id": 1960,
+   "brand_name_th": "",
+   "brand_name_en": "The S block condominium"
+ },
+ {
+   "developer_id": 140750,
+   "brand_id": 1408,
+   "brand_name_th": "เพอร์เฟค โซน รังสิต คลอง 3",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 1836,
+   "brand_id": 967,
+   "brand_name_th": "บ้านธัญญาภิรมย์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140706,
+   "brand_id": 1276,
+   "brand_name_th": "บ้านศิริชัย วังสารภี 4",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140612,
+   "brand_id": 519,
+   "brand_name_th": "เบตต้าเฮ้าส์ โนนทัน 9",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 12683,
+   "brand_id": 618,
+   "brand_name_th": "พนาสนธิ์ วิลล่า",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 17155,
+   "brand_id": 1546,
+   "brand_name_th": "เดอะเนสท์ เพลินจิต",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 139811,
+   "brand_id": 1131,
+   "brand_name_th": "บุษบา วิลล์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 139739,
+   "brand_id": 709,
+   "brand_name_th": "กรีนเนอรี่ ทาวน์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140637,
+   "brand_id": 1047,
+   "brand_name_th": "วิลล่า นารา",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 138002,
+   "brand_id": 706,
+   "brand_name_th": "โมโน ทาวน์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140711,
+   "brand_id": 1272,
+   "brand_name_th": "",
+   "brand_name_en": "Idea House"
+ },
+ {
+   "developer_id": 14848,
+   "brand_id": 578,
+   "brand_name_th": "เซอเรโน่ บาย โบนันซ่า",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 139671,
+   "brand_id": 1983,
+   "brand_name_th": "",
+   "brand_name_en": "Di Classe Condominium"
+ },
+ {
+   "developer_id": 136679,
+   "brand_id": 1869,
+   "brand_name_th": "บ้านสวนกลางดง",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 11343,
+   "brand_id": 673,
+   "brand_name_th": "ปรัชญา บิซโฮม",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 9656,
+   "brand_id": 959,
+   "brand_name_th": "โฮมเพลส เดอะพาร์ค",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140596,
+   "brand_id": 1775,
+   "brand_name_th": "วี คอนโด",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 11277,
+   "brand_id": 1051,
+   "brand_name_th": "แฮปปี้ โฮม",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 11066,
+   "brand_id": 177,
+   "brand_name_th": "ซีนเนอรี่",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140531,
+   "brand_id": 580,
+   "brand_name_th": "โคเต้ เมซอง – พระราม 3",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 9188,
+   "brand_id": 1564,
+   "brand_name_th": "ที-วัน พหลโยธิน 32",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140472,
+   "brand_id": 694,
+   "brand_name_th": "เซลลินี",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 20909,
+   "brand_id": 1721,
+   "brand_name_th": "แมกโนเลียส์ ราชดำริ บูเลอวาร์ด",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 17006,
+   "brand_id": 1693,
+   "brand_name_th": "โฟคัส เพลินจิต",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 20367,
+   "brand_id": 1223,
+   "brand_name_th": "เอมเมอรัลด์ เรสซิเดนท์ รัชดา",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 134727,
+   "brand_id": 1590,
+   "brand_name_th": "เดอะวันพลัส @ศรีนครินทร์ (โครงการ 2)",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 17094,
+   "brand_id": 1442,
+   "brand_name_th": "เดอะ ดิโพลแมท 39",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 134709,
+   "brand_id": 378,
+   "brand_name_th": "โพลี เพลส คอนโด แอท พหลโยธิน 23",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 5736,
+   "brand_id": 795,
+   "brand_name_th": "ออทั่ม เรสซิเด้นซ์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 1438,
+   "brand_id": 1235,
+   "brand_name_th": "ซี สเปซ บางใหญ่",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 11450,
+   "brand_id": 1540,
+   "brand_name_th": "ทาวน์ สุขุมวิท 71",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 11623,
+   "brand_id": 545,
+   "brand_name_th": "ไอลีฟ ทาวน์ ",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 11374,
+   "brand_id": 1170,
+   "brand_name_th": "",
+   "brand_name_en": "Thana Arcadia"
+ },
+ {
+   "developer_id": 1970,
+   "brand_id": 712,
+   "brand_name_th": "กาญจน์กนกวิลล์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 11077,
+   "brand_id": 615,
+   "brand_name_th": "ภัทรโมทาวน์ (Pattra Mo Town)",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 16723,
+   "brand_id": 1238,
+   "brand_name_th": "ปภาวรินท์ ไลฟ์ อัพ",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140545,
+   "brand_id": 1792,
+   "brand_name_th": "ซิงค์ เนเจอร์ สยาม",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 12018,
+   "brand_id": 1492,
+   "brand_name_th": "แซฟวี่ คอนโดมิเนียม",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140513,
+   "brand_id": 1676,
+   "brand_name_th": "สมโภชน์แลนด์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140526,
+   "brand_id": 1108,
+   "brand_name_th": "บ้านเวียงนารา",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140669,
+   "brand_id": 1310,
+   "brand_name_th": "มาลานันท์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140685,
+   "brand_id": 1249,
+   "brand_name_th": "เดอะ เฟิร์ส แอซเซ็ท คอนโดมิเนียม",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140910,
+   "brand_id": 2010,
+   "brand_name_th": "",
+   "brand_name_en": "The Urban Reserve"
+ },
+ {
+   "developer_id": 16738,
+   "brand_id": 917,
+   "brand_name_th": "วิสต้า วิลล์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140564,
+   "brand_id": 1569,
+   "brand_name_th": "เวรี่ สุขุมวิท 72 เฟส 2",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140816,
+   "brand_id": 1865,
+   "brand_name_th": "หนองคาย วิลล่า",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 4552,
+   "brand_id": 490,
+   "brand_name_th": "ดาริน บายพาสชลบุรี - บ้านสวนซอย 11",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140681,
+   "brand_id": 1248,
+   "brand_name_th": "บ้านสมาพันธ์ ไพรเวทพาร์ค 3",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 9759,
+   "brand_id": 850,
+   "brand_name_th": "สิวารัตน์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140695,
+   "brand_id": 2209,
+   "brand_name_th": "มายโอโซน",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 7859,
+   "brand_id": 1169,
+   "brand_name_th": "เวลาดี",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140582,
+   "brand_id": 1970,
+   "brand_name_th": "สุขนิเวศน์ 10",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 135813,
+   "brand_id": 2301,
+   "brand_name_th": "บ้านธนกฤษณ์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140817,
+   "brand_id": 1860,
+   "brand_name_th": "นราเฮ้าส์ พหลโยธิน",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140691,
+   "brand_id": 1779,
+   "brand_name_th": "ไดมอนด์ วิลล์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 14062,
+   "brand_id": 1002,
+   "brand_name_th": "บ้านบดินทร",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140665,
+   "brand_id": 1164,
+   "brand_name_th": "",
+   "brand_name_en": "Cozii By Viida Ville"
+ },
+ {
+   "developer_id": 140613,
+   "brand_id": 534,
+   "brand_name_th": "",
+   "brand_name_en": "Seadream Condo"
+ },
+ {
+   "developer_id": 140692,
+   "brand_id": 1250,
+   "brand_name_th": "",
+   "brand_name_en": "The Lux Condominium"
+ },
+ {
+   "developer_id": 20756,
+   "brand_id": 1407,
+   "brand_name_th": "อาร์เอ็นพี เพลส รามอินทรา",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140626,
+   "brand_id": 914,
+   "brand_name_th": "บ้านสาริน",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140926,
+   "brand_id": 2040,
+   "brand_name_th": "เดอะพีค @ เขาค้อ",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140936,
+   "brand_id": 2057,
+   "brand_name_th": "บ้านณัฏอาภา พะเยา",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 20862,
+   "brand_id": 1687,
+   "brand_name_th": "เดลมาเร่ บางเสร่ บีชฟรอนท์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 16123,
+   "brand_id": 1750,
+   "brand_name_th": "ลิฟ แอท 49",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 138983,
+   "brand_id": 1146,
+   "brand_name_th": "เดอะ รีโว",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140724,
+   "brand_id": 1285,
+   "brand_name_th": "บ้านกรองเงิน",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140928,
+   "brand_id": 2039,
+   "brand_name_th": "เดอะ ริช กาญจน์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140906,
+   "brand_id": 2003,
+   "brand_name_th": "บ้านธนวัฒน์ 2",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 12766,
+   "brand_id": 740,
+   "brand_name_th": "",
+   "brand_name_en": "PALM SPRINGS NIMMAN"
+ },
+ {
+   "developer_id": 5325,
+   "brand_id": 1722,
+   "brand_name_th": "ดาวน์ทาวน์ 49",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 20424,
+   "brand_id": 691,
+   "brand_name_th": "อมันตาวิลเลจ",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140923,
+   "brand_id": 2031,
+   "brand_name_th": "",
+   "brand_name_en": "Casa ราชดำเนิน"
+ },
+ {
+   "developer_id": 140924,
+   "brand_id": 2037,
+   "brand_name_th": "",
+   "brand_name_en": "Gen Condo"
+ },
+ {
+   "developer_id": 140774,
+   "brand_id": 1597,
+   "brand_name_th": "เดอะเบสท์ทาวน์โฮม เกษมราษฎร์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 8399,
+   "brand_id": 994,
+   "brand_name_th": "พนาสนธิ์การ์เด้นโฮม",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 9100,
+   "brand_id": 355,
+   "brand_name_th": "",
+   "brand_name_en": "Golden Town"
+ },
+ {
+   "developer_id": 140775,
+   "brand_id": 1600,
+   "brand_name_th": "เดอะ นีโอ บาย วีรดา",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 12031,
+   "brand_id": 380,
+   "brand_name_th": "คอนโด ยู",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140435,
+   "brand_id": 2119,
+   "brand_name_th": "บ้านแสนสบาย 3",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140575,
+   "brand_id": 878,
+   "brand_name_th": "โนวาลักซ์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 139562,
+   "brand_id": 1089,
+   "brand_name_th": "บ้านถิ่นไทดี",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 18170,
+   "brand_id": 920,
+   "brand_name_th": "ประชาสิริ ",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140934,
+   "brand_id": 2049,
+   "brand_name_th": "",
+   "brand_name_en": "Siranya Bluhill"
+ },
+ {
+   "developer_id": 140925,
+   "brand_id": 2038,
+   "brand_name_th": "",
+   "brand_name_en": "Casa one"
+ },
+ {
+   "developer_id": 140919,
+   "brand_id": 2026,
+   "brand_name_th": "ธีรินทร์พาร์ค จรัญฯ 13-กาญจนาภิเษก",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140920,
+   "brand_id": 2032,
+   "brand_name_th": "ธาราวิลล์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140917,
+   "brand_id": 2021,
+   "brand_name_th": "",
+   "brand_name_en": "Viia 7"
+ },
+ {
+   "developer_id": 16773,
+   "brand_id": 1879,
+   "brand_name_th": "วี คอนโด",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 1136,
+   "brand_id": 2283,
+   "brand_name_th": "เดอะสปริงคอนโด",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 1620,
+   "brand_id": 2006,
+   "brand_name_th": "เฮอริเทจ เดอะแซนด์ เฟส 2",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 136369,
+   "brand_id": 930,
+   "brand_name_th": "บ้านเบญญาภา ปลวกแดง",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 8441,
+   "brand_id": 752,
+   "brand_name_th": "อิมพิเรียล ลากูนา",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 20116,
+   "brand_id": 1316,
+   "brand_name_th": "บ้านอยู่สราญ",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 2497,
+   "brand_id": 788,
+   "brand_name_th": "เดอะมันนี่ คลองสี่วา",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140293,
+   "brand_id": 1652,
+   "brand_name_th": "วี.เอ็น. เรสซิเด้นซ์ 3",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140479,
+   "brand_id": 1582,
+   "brand_name_th": "ศรีธานี",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140487,
+   "brand_id": 1103,
+   "brand_name_th": "บ้านอิศรา อุดร-หนองสำโรง",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 7869,
+   "brand_id": 905,
+   "brand_name_th": "พฤกษาพรรณ",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140547,
+   "brand_id": 1690,
+   "brand_name_th": "เซอร์เคิล สุขุมวิท 31",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 5954,
+   "brand_id": 931,
+   "brand_name_th": "ธีรินทร์พาร์ค",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140369,
+   "brand_id": 1578,
+   "brand_name_th": "โมด้า คอนโด",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 7031,
+   "brand_id": 966,
+   "brand_name_th": "ประชาสุข เลคแอนด์มอลล์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140571,
+   "brand_id": 1581,
+   "brand_name_th": "นว ลิฟวิ่ง แอท นวมินทร์ 75",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140914,
+   "brand_id": 2017,
+   "brand_name_th": "",
+   "brand_name_en": "Modern Condo"
+ },
+ {
+   "developer_id": 140550,
+   "brand_id": 1667,
+   "brand_name_th": "เดอะ เซอร์คอน เรสสิเด้นซ์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140918,
+   "brand_id": 2025,
+   "brand_name_th": "บีโฮม",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 139981,
+   "brand_id": 2126,
+   "brand_name_th": "เดอะ โมเดิร์น ทาวน์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140755,
+   "brand_id": 1418,
+   "brand_name_th": "บ้านแสนสราญ",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140570,
+   "brand_id": 877,
+   "brand_name_th": "T-Biz home at Talat Phlu",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140922,
+   "brand_id": 2033,
+   "brand_name_th": "บ้านร้อยจันทร์ เนสท์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140627,
+   "brand_id": 912,
+   "brand_name_th": "ดิ เอสเตท ชลบุรี",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140938,
+   "brand_id": 2056,
+   "brand_name_th": "เค อเวนิว",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140739,
+   "brand_id": 1359,
+   "brand_name_th": "หรรษนันท์ ทะเลแก้ว",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140572,
+   "brand_id": 1457,
+   "brand_name_th": " พาร์ค เรสซิเดนซ์ แอท พหล 67",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 139912,
+   "brand_id": 408,
+   "brand_name_th": "",
+   "brand_name_en": "The Zea"
+ },
+ {
+   "developer_id": 140723,
+   "brand_id": 1284,
+   "brand_name_th": "เดอะแลนด์มาร์ค",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140652,
+   "brand_id": 1100,
+   "brand_name_th": "ศิรดาแกรด์ วิลล์ สงขลา",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140732,
+   "brand_id": 1326,
+   "brand_name_th": "บ้านนัฐนันต์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140035,
+   "brand_id": 1401,
+   "brand_name_th": " วนาริน สุขุมวิท-กรอกยายชา",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140663,
+   "brand_id": 1149,
+   "brand_name_th": "",
+   "brand_name_en": "DOUBLE 1 TOWNHOME"
+ },
+ {
+   "developer_id": 140563,
+   "brand_id": 1739,
+   "brand_name_th": "ริล คอนโด",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140588,
+   "brand_id": 1901,
+   "brand_name_th": "โฟร์ซีซั่นส์ ไพรเวท เรสซิเด้นซ์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140579,
+   "brand_id": 1641,
+   "brand_name_th": "บริษัท บ้านวิรัลพัชร จำกัด",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140702,
+   "brand_id": 1278,
+   "brand_name_th": "สุขถาวร โครงการ 2 (น้ำคอก-บ้านค่าย)",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140734,
+   "brand_id": 1333,
+   "brand_name_th": "แมกซ์ซี่ รัชโยธิน-พหลฯ 34",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140735,
+   "brand_id": 1350,
+   "brand_name_th": "ภัทรินทร์ 2 รามอินทรา-หทัยราษฎร์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140593,
+   "brand_id": 1708,
+   "brand_name_th": "มีสินดี อพาร์ทเม้นท์ คอนโด",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 135146,
+   "brand_id": 2105,
+   "brand_name_th": "",
+   "brand_name_en": "The Loft Galleria Phahonyothin-Lumlukka Klong 3"
+ },
+ {
+   "developer_id": 140666,
+   "brand_id": 1174,
+   "brand_name_th": "บ้านนวัต",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 138129,
+   "brand_id": 1646,
+   "brand_name_th": "เดอะ เพเซอร์ พัทยา",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140614,
+   "brand_id": 908,
+   "brand_name_th": "บ้านอยู่สบาย",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140591,
+   "brand_id": 320,
+   "brand_name_th": "วิลล่า เอเชียติค",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 138988,
+   "brand_id": 1580,
+   "brand_name_th": "ทีซี กรีน",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140623,
+   "brand_id": 910,
+   "brand_name_th": "บ้านภัคภิรมย์ 4 THE RICH",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140321,
+   "brand_id": 750,
+   "brand_name_th": "วิชั่น สมาร์ทไลฟ์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140621,
+   "brand_id": 1967,
+   "brand_name_th": "",
+   "brand_name_en": "Sky Line"
+ },
+ {
+   "developer_id": 138703,
+   "brand_id": 2164,
+   "brand_name_th": "ริชโซ คอนโด",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140672,
+   "brand_id": 1470,
+   "brand_name_th": "บ้านรินทอง ท่าแขก",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140947,
+   "brand_id": 2073,
+   "brand_name_th": "เอเทรีย อารีย์-อินทามระ",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140738,
+   "brand_id": 1360,
+   "brand_name_th": "บ้านมณฑาทอง",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140769,
+   "brand_id": 1508,
+   "brand_name_th": "",
+   "brand_name_en": "Newedge StudioHouse"
+ },
+ {
+   "developer_id": 140814,
+   "brand_id": 1850,
+   "brand_name_th": "",
+   "brand_name_en": "The Marina Condominium I"
+ },
+ {
+   "developer_id": 283,
+   "brand_id": 868,
+   "brand_name_th": "กานต์ศิริ รามอินทรา",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140744,
+   "brand_id": 1394,
+   "brand_name_th": "",
+   "brand_name_en": "Jin Wellbeing County"
+ },
+ {
+   "developer_id": 140694,
+   "brand_id": 1253,
+   "brand_name_th": "นันท์นิชา วิลเลจ",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 5942,
+   "brand_id": 991,
+   "brand_name_th": "ไทคูน ออฟฟิเซีย",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140633,
+   "brand_id": 949,
+   "brand_name_th": "",
+   "brand_name_en": "Altitude Prove"
+ },
+ {
+   "developer_id": 140632,
+   "brand_id": 946,
+   "brand_name_th": "บ้านเจียระไน",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140701,
+   "brand_id": 1266,
+   "brand_name_th": "ประจวบศิริ ไลฟ์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140698,
+   "brand_id": 1265,
+   "brand_name_th": "ศิริทรัพย์ 1 ห้วยวังนอง",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140664,
+   "brand_id": 1762,
+   "brand_name_th": "",
+   "brand_name_en": "Nara Grand"
+ },
+ {
+   "developer_id": 140598,
+   "brand_id": 1093,
+   "brand_name_th": "อัสสกาญจน์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 16791,
+   "brand_id": 1554,
+   "brand_name_th": "ไทดี้ ดีลักซ์ คอนโดมิเนียม แอท สุขุมวิท 34",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140700,
+   "brand_id": 1269,
+   "brand_name_th": "บ้านชีวา 2 ราชบุรี",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140818,
+   "brand_id": 1862,
+   "brand_name_th": "ชาลิสา เพลส",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140749,
+   "brand_id": 1405,
+   "brand_name_th": "บ้านวังวารี",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 1216,
+   "brand_id": 2287,
+   "brand_name_th": "เดอะพรอมิเน้นซ์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140518,
+   "brand_id": 532,
+   "brand_name_th": "เดอะ วิลล์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140719,
+   "brand_id": 1289,
+   "brand_name_th": "",
+   "brand_name_en": "Baan View Suan"
+ },
+ {
+   "developer_id": 12139,
+   "brand_id": 2284,
+   "brand_name_th": "ไวซ์ ซิกเนเจอร์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140777,
+   "brand_id": 1607,
+   "brand_name_th": "บ้านอารียา สกลนคร",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 6304,
+   "brand_id": 579,
+   "brand_name_th": "การ์เด้น วิลล่า เดอะ ฟิฟท์ (รังสิต-คลอง 3)",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 139769,
+   "brand_id": 1480,
+   "brand_name_th": "บริษัท เคปทาวน์ ศรีราชา จำกัด",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140705,
+   "brand_id": 1273,
+   "brand_name_th": "บ้านปัญญทร ราชบุรี",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 137634,
+   "brand_id": 1305,
+   "brand_name_th": "ลิสส์ รัชโยธิน",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 139799,
+   "brand_id": 1537,
+   "brand_name_th": " ซี แอนด์ สกาย คอนโดบางเสร่",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 138710,
+   "brand_id": 435,
+   "brand_name_th": "เลค นครา",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 138927,
+   "brand_id": 400,
+   "brand_name_th": "",
+   "brand_name_en": "ฺBaan Chayada"
+ },
+ {
+   "developer_id": 138168,
+   "brand_id": 1842,
+   "brand_name_th": "",
+   "brand_name_en": "The Port Suksawat"
+ },
+ {
+   "developer_id": 140620,
+   "brand_id": 2023,
+   "brand_name_th": "",
+   "brand_name_en": "Keen Center Sriracha"
+ },
+ {
+   "developer_id": 140726,
+   "brand_id": 1293,
+   "brand_name_th": "",
+   "brand_name_en": "Cozy House"
+ },
+ {
+   "developer_id": 140761,
+   "brand_id": 1432,
+   "brand_name_th": "บ้านพชรพล ลำปาง",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140730,
+   "brand_id": 1320,
+   "brand_name_th": "เศรษฐี วิลล่า สนามบินน้ำ",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140718,
+   "brand_id": 1290,
+   "brand_name_th": "กรีนวิลล์ 2",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140486,
+   "brand_id": 1420,
+   "brand_name_th": "บ้านหรรษา",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140357,
+   "brand_id": 1536,
+   "brand_name_th": "ดิ แอททรีบิวท์ หาดใหญ่",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140948,
+   "brand_id": 2074,
+   "brand_name_th": "เดอะ พาวิลล่า ไพรเวท เรสซิเดนซ์ กาญจนาภิเษก-บางบอน 3",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 139701,
+   "brand_id": 687,
+   "brand_name_th": "เดอะซีนเนอร์รี่",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140956,
+   "brand_id": 2100,
+   "brand_name_th": "เดอะเชนจ์ รีแลกซ์ คอนโด",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140186,
+   "brand_id": 904,
+   "brand_name_th": "บ้านร่มไม้ 3 มาบยางพร",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140960,
+   "brand_id": 2110,
+   "brand_name_th": "168 สุขุมวิท 36",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140955,
+   "brand_id": 2099,
+   "brand_name_th": "",
+   "brand_name_en": "KALM Penthouse "
+ },
+ {
+   "developer_id": 140168,
+   "brand_id": 1126,
+   "brand_name_th": "แอทเฮาส์ ทาวน์พลัส",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 9385,
+   "brand_id": 1766,
+   "brand_name_th": "บ้านปรารถนา พาวิลเลี่ยน",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140630,
+   "brand_id": 924,
+   "brand_name_th": "อาณาสรา",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 15177,
+   "brand_id": 655,
+   "brand_name_th": "ภูมิชนก",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 16812,
+   "brand_id": 1526,
+   "brand_name_th": "ทิว ริเวอร์ เพลส",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140618,
+   "brand_id": 880,
+   "brand_name_th": "",
+   "brand_name_en": "Serio"
+ },
+ {
+   "developer_id": 140776,
+   "brand_id": 1605,
+   "brand_name_th": "เอ พลัส กรีนโฮม",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140684,
+   "brand_id": 2150,
+   "brand_name_th": "บ้านวโรรส",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140821,
+   "brand_id": 1864,
+   "brand_name_th": "วิเศษสิริ 2 สมุทรสาคร",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140824,
+   "brand_id": 1867,
+   "brand_name_th": "ชลพฤกษ์ พาร์ควิลล์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140678,
+   "brand_id": 1239,
+   "brand_name_th": "พราโด้",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140688,
+   "brand_id": 1264,
+   "brand_name_th": "บ้านภูมิสรา",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 20760,
+   "brand_id": 816,
+   "brand_name_th": "เดอะ เทอมินอล สุวรรณภูมิ",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140822,
+   "brand_id": 1866,
+   "brand_name_th": "เนเทอร์ร่า พาร์ค",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140856,
+   "brand_id": 1916,
+   "brand_name_th": "เดอะเบย์ สกายคลิฟฟ์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 138881,
+   "brand_id": 2108,
+   "brand_name_th": "มี ทู - กบินทร์บุรี",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140722,
+   "brand_id": 2028,
+   "brand_name_th": "โมเดิร์นทาวน์ อ้อมค่าย",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 138623,
+   "brand_id": 1772,
+   "brand_name_th": "วีธารา 36",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140828,
+   "brand_id": 1874,
+   "brand_name_th": "เดอะเฟิร์ส",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 141032,
+   "brand_id": 2244,
+   "brand_name_th": "นิช ไพรด์ เตาปูน-อินเตอร์เชนจ์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140784,
+   "brand_id": 1697,
+   "brand_name_th": "คุณาภัทร พาร์ค",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140813,
+   "brand_id": 1851,
+   "brand_name_th": "ไพร์ม สแควร์ อุดรธานี",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 15679,
+   "brand_id": 1757,
+   "brand_name_th": "มายรีสอร์ท หัวหิน",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140788,
+   "brand_id": 1730,
+   "brand_name_th": "",
+   "brand_name_en": "The Ratcha Rama 5"
+ },
+ {
+   "developer_id": 141029,
+   "brand_id": 2242,
+   "brand_name_th": "อาร์ติซาน รัชดา",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140798,
+   "brand_id": 1830,
+   "brand_name_th": "ปุณธารีย์สวนตูล",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140786,
+   "brand_id": 1711,
+   "brand_name_th": "ซิตี้ลิ้งค์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140509,
+   "brand_id": 1707,
+   "brand_name_th": "บ้านภูปลายฟ้า",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140807,
+   "brand_id": 1848,
+   "brand_name_th": "",
+   "brand_name_en": " Bristol Park"
+ },
+ {
+   "developer_id": 140789,
+   "brand_id": 1734,
+   "brand_name_th": "ซายน์ สุขุมวิท 50",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140801,
+   "brand_id": 1995,
+   "brand_name_th": "กรีน ปาร์ควิลล์ สงขลา",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140811,
+   "brand_id": 1849,
+   "brand_name_th": "",
+   "brand_name_en": "The Touch House"
+ },
+ {
+   "developer_id": 140767,
+   "brand_id": 1499,
+   "brand_name_th": "บ้านสิริน นารา",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140717,
+   "brand_id": 1531,
+   "brand_name_th": "",
+   "brand_name_en": "The Living Naraya 2"
+ },
+ {
+   "developer_id": 140740,
+   "brand_id": 1403,
+   "brand_name_th": "เดอะ กรอสเวินเนอร์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140677,
+   "brand_id": 1962,
+   "brand_name_th": "ศุภลักษณ์ซิตี้",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140762,
+   "brand_id": 1441,
+   "brand_name_th": "สาทร",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140779,
+   "brand_id": 1638,
+   "brand_name_th": "วิคตอเรีย เลควิว คอนโดมิเนียม",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140793,
+   "brand_id": 1810,
+   "brand_name_th": "u dee condo",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140796,
+   "brand_id": 1831,
+   "brand_name_th": "เดอะ แกรนด์ วังหงส์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140780,
+   "brand_id": 1643,
+   "brand_name_th": "",
+   "brand_name_en": "Urban Myx"
+ },
+ {
+   "developer_id": 140804,
+   "brand_id": 1843,
+   "brand_name_th": "",
+   "brand_name_en": "CUBIC2 by Siratnicha"
+ },
+ {
+   "developer_id": 140516,
+   "brand_id": 1345,
+   "brand_name_th": "บ้านมะลิวัลย์ ขอนแก่น",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 20357,
+   "brand_id": 1412,
+   "brand_name_th": "นารา ดีไลท์ โฮมทาวน์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140829,
+   "brand_id": 1875,
+   "brand_name_th": "X2 Pattaya Oceanphere",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140495,
+   "brand_id": 1834,
+   "brand_name_th": "สิทธารมย์ พาร์คไลฟ์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140802,
+   "brand_id": 1836,
+   "brand_name_th": "วอร่า ทาวน์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140625,
+   "brand_id": 901,
+   "brand_name_th": "D MARK",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140603,
+   "brand_id": 331,
+   "brand_name_th": "",
+   "brand_name_en": "The Valerie"
+ },
+ {
+   "developer_id": 140601,
+   "brand_id": 1072,
+   "brand_name_th": "เอช ทู โกล์ว ",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140852,
+   "brand_id": 1896,
+   "brand_name_th": "ฟูลริช ลีฟวิ่ง",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140837,
+   "brand_id": 1878,
+   "brand_name_th": "พรีมิโอ ควินโต",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140907,
+   "brand_id": 2004,
+   "brand_name_th": "พาร์ค วิลเลจ",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140768,
+   "brand_id": 1529,
+   "brand_name_th": "สกลเมืองเอก - ศรีวิชา",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 139753,
+   "brand_id": 682,
+   "brand_name_th": "บ้านสิริศา 16",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140729,
+   "brand_id": 1317,
+   "brand_name_th": "บ้านปาริสรณ์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140974,
+   "brand_id": 2143,
+   "brand_name_th": "ห้วยมงคล เมืองใหม่",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140760,
+   "brand_id": 1428,
+   "brand_name_th": "เดอะลีฟ บาย ดรีมแลนด์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140359,
+   "brand_id": 1472,
+   "brand_name_th": "ภูเก็ตโกลเด้นวิลล์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140778,
+   "brand_id": 1636,
+   "brand_name_th": "",
+   "brand_name_en": "The Next"
+ },
+ {
+   "developer_id": 140958,
+   "brand_id": 2107,
+   "brand_name_th": "",
+   "brand_name_en": "VERY III"
+ },
+ {
+   "developer_id": 138995,
+   "brand_id": 1111,
+   "brand_name_th": "",
+   "brand_name_en": "Quinn Condo"
+ },
+ {
+   "developer_id": 139541,
+   "brand_id": 2013,
+   "brand_name_th": "เดอะ คริสตัล",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 139715,
+   "brand_id": 1683,
+   "brand_name_th": "กรีน แคสเคด บางเสร่",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140927,
+   "brand_id": 2041,
+   "brand_name_th": "เดอะ ไพร์ม @ บ้านบึง",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 18909,
+   "brand_id": 405,
+   "brand_name_th": "เดอะ บาลานซ์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140962,
+   "brand_id": 2220,
+   "brand_name_th": "",
+   "brand_name_en": "The Rich Rayong"
+ },
+ {
+   "developer_id": 140946,
+   "brand_id": 2069,
+   "brand_name_th": "คูเปอร์สยาม",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140954,
+   "brand_id": 2092,
+   "brand_name_th": "",
+   "brand_name_en": "Banyan Tree Residences Riverside Bangkok"
+ },
+ {
+   "developer_id": 140170,
+   "brand_id": 1209,
+   "brand_name_th": "โอโซน วิลล่า",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140968,
+   "brand_id": 2131,
+   "brand_name_th": "พิลโล่ 142",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140696,
+   "brand_id": 1260,
+   "brand_name_th": "",
+   "brand_name_en": "The Cozy Town"
+ },
+ {
+   "developer_id": 9368,
+   "brand_id": 717,
+   "brand_name_th": "กุญชร์สิริ",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 139548,
+   "brand_id": 1981,
+   "brand_name_th": "",
+   "brand_name_en": "The Isis Condo Khonkaen"
+ },
+ {
+   "developer_id": 140826,
+   "brand_id": 1872,
+   "brand_name_th": "นีเวร่า คอนโด",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140942,
+   "brand_id": 2061,
+   "brand_name_th": "กาญจน์สิริ พายัพ (เชียงใหม่)",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140941,
+   "brand_id": 2059,
+   "brand_name_th": "เดอะ เลค แกรนด์ วิลเลจ",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140200,
+   "brand_id": 613,
+   "brand_name_th": "บ้านงามเจริญ 9 พาร์ค อเวนิว",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140943,
+   "brand_id": 2062,
+   "brand_name_th": "เดอะ ชีวา แซงทัวรี",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140944,
+   "brand_id": 2063,
+   "brand_name_th": "เดอะ คลิฟฟอร์ด",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140843,
+   "brand_id": 2302,
+   "brand_name_th": "นอร์เดนบาร์น ฮาบิต้า แม่โจ้",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140848,
+   "brand_id": 1895,
+   "brand_name_th": "วี วิลเลต",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140963,
+   "brand_id": 2112,
+   "brand_name_th": "ราชาวดี พิษณุโลก",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140585,
+   "brand_id": 1808,
+   "brand_name_th": "เพิ่มสินทรัพย์ บูทีค (เฟส 1)",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 139567,
+   "brand_id": 1856,
+   "brand_name_th": "เดอะมิวส์ ท่าอ่าง-ด่านเกวียน",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140950,
+   "brand_id": 2081,
+   "brand_name_th": "",
+   "brand_name_en": "Mantra Beach Condo"
+ },
+ {
+   "developer_id": 140951,
+   "brand_id": 2083,
+   "brand_name_th": "วีคอนโด ศาลายา",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140945,
+   "brand_id": 2064,
+   "brand_name_th": "",
+   "brand_name_en": "Unio"
+ },
+ {
+   "developer_id": 140965,
+   "brand_id": 2116,
+   "brand_name_th": "บ้านภภัสสร ท่าทอง",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 139752,
+   "brand_id": 1684,
+   "brand_name_th": "บ้านสิริน พัทยา",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140825,
+   "brand_id": 1870,
+   "brand_name_th": "เซอเลส อโศก",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140820,
+   "brand_id": 1863,
+   "brand_name_th": "ภูดาหลา เรสสิเด๊นเซส",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140827,
+   "brand_id": 1873,
+   "brand_name_th": "ภัททา ไพร์ม",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 141051,
+   "brand_id": 2266,
+   "brand_name_th": "เดอะ เวลลิงตัน ทาวน์โฮม ศรีนครินทร์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140759,
+   "brand_id": 1426,
+   "brand_name_th": "บ้านรักษ์ ลําปาง",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140517,
+   "brand_id": 1538,
+   "brand_name_th": "โมเดิร์น เพลส สัตหีบ",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140791,
+   "brand_id": 1741,
+   "brand_name_th": "สวนบัว เรสซิเดนซ์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140566,
+   "brand_id": 1445,
+   "brand_name_th": "ทราเพโซ สุขุมวิท 16",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140764,
+   "brand_id": 1447,
+   "brand_name_th": "เซเว่น ซี คอนโด รีสอร์ท ภูเก็ต",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140971,
+   "brand_id": 2137,
+   "brand_name_th": "ธนดารา การ์เด้นท์โฮม มวกเหล็ก-สระบุรี",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140967,
+   "brand_id": 2122,
+   "brand_name_th": "ดิ ออร่า",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140970,
+   "brand_id": 2133,
+   "brand_name_th": "นิราวิลล์ แคร์ไลฟ์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140559,
+   "brand_id": 1373,
+   "brand_name_th": "เดอะ พอร์ทเทรท พระราม 4-สุขุมวิท 38",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140903,
+   "brand_id": 2002,
+   "brand_name_th": "บ้านศิริทรัพย์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140912,
+   "brand_id": 2012,
+   "brand_name_th": "วิสดอม กรีนทาวน์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140853,
+   "brand_id": 1903,
+   "brand_name_th": "ทรัพย์ทวี วิลเลจ",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140930,
+   "brand_id": 2043,
+   "brand_name_th": "Y RESIDENCE",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140932,
+   "brand_id": 2046,
+   "brand_name_th": "",
+   "brand_name_en": "Icon Park Condominium"
+ },
+ {
+   "developer_id": 140851,
+   "brand_id": 1897,
+   "brand_name_th": "เดอะ ไพรเวท กาญจนาภิเษก",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140859,
+   "brand_id": 1921,
+   "brand_name_th": "ชิค คอนโด กะรน",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140850,
+   "brand_id": 1898,
+   "brand_name_th": "บ้านกันสิริ ปลวกแดง",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140931,
+   "brand_id": 2044,
+   "brand_name_th": "บ้านสามออ",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140921,
+   "brand_id": 2030,
+   "brand_name_th": "",
+   "brand_name_en": "Arun Home"
+ },
+ {
+   "developer_id": 140854,
+   "brand_id": 1906,
+   "brand_name_th": "รอยัลลี เดอะ เทอมินอล ภูเก็ต",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140833,
+   "brand_id": 1877,
+   "brand_name_th": "ร๊อคโค",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 138312,
+   "brand_id": 1090,
+   "brand_name_th": "บ้านทวีทรัพย์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140973,
+   "brand_id": 2142,
+   "brand_name_th": "เพียงวิมาน",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140631,
+   "brand_id": 947,
+   "brand_name_th": "",
+   "brand_name_en": "Baan Puri Puri"
+ },
+ {
+   "developer_id": 140815,
+   "brand_id": 1852,
+   "brand_name_th": "",
+   "brand_name_en": "The win condominium"
+ },
+ {
+   "developer_id": 140707,
+   "brand_id": 1277,
+   "brand_name_th": "กาญธารา เรสซิเด้นซ์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140770,
+   "brand_id": 1517,
+   "brand_name_th": "เดอะเม้าท์เท้น เขาตาโล",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140799,
+   "brand_id": 2261,
+   "brand_name_th": "พฤกษาวิลล์ ปัตตานี",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140771,
+   "brand_id": 1957,
+   "brand_name_th": "พาร์ค เรสซิเดนซ์ แอท พหล 67",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140773,
+   "brand_id": 1542,
+   "brand_name_th": "",
+   "brand_name_en": "KP LIVING"
+ },
+ {
+   "developer_id": 141021,
+   "brand_id": 2229,
+   "brand_name_th": "อเมซอน เรสซิเด้นซ์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140352,
+   "brand_id": 1067,
+   "brand_name_th": "ฮาร์โมนี โฮม",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 10724,
+   "brand_id": 955,
+   "brand_name_th": "",
+   "brand_name_en": "Venice Di IRIS"
+ },
+ {
+   "developer_id": 140721,
+   "brand_id": 1288,
+   "brand_name_th": "บ้านเกนวิลล์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140673,
+   "brand_id": 1215,
+   "brand_name_th": "เอริก้า วิลล์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140981,
+   "brand_id": 2157,
+   "brand_name_th": "เดอะ แชมเบอรี่",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140606,
+   "brand_id": 335,
+   "brand_name_th": "T SPACE / ร.8 - มหาวิทยาลัยขอนแก่น",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140879,
+   "brand_id": 1946,
+   "brand_name_th": "บ้านฉัตรหลวง",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140609,
+   "brand_id": 1908,
+   "brand_name_th": "รูเนะสุ ทองหล่อ 5",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140605,
+   "brand_id": 334,
+   "brand_name_th": "",
+   "brand_name_en": "FAIRFORD"
+ },
+ {
+   "developer_id": 140872,
+   "brand_id": 1932,
+   "brand_name_th": "ซันทารา คอนโดมิเนียม",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140610,
+   "brand_id": 416,
+   "brand_name_th": "",
+   "brand_name_en": "Amust"
+ },
+ {
+   "developer_id": 140874,
+   "brand_id": 1937,
+   "brand_name_th": "บ้านไออุ่น",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140608,
+   "brand_id": 1686,
+   "brand_name_th": "เมลานี แบงคอก",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140891,
+   "brand_id": 1976,
+   "brand_name_th": "",
+   "brand_name_en": "Ezio"
+ },
+ {
+   "developer_id": 140881,
+   "brand_id": 1956,
+   "brand_name_th": "เดอะชารีน่า",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140890,
+   "brand_id": 1975,
+   "brand_name_th": "บ้านบารมี",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140880,
+   "brand_id": 1952,
+   "brand_name_th": "",
+   "brand_name_en": "Loft Lane Lasalle"
+ },
+ {
+   "developer_id": 140899,
+   "brand_id": 1992,
+   "brand_name_th": "วีรดา กำแพงเพชร",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140883,
+   "brand_id": 1965,
+   "brand_name_th": "",
+   "brand_name_en": "Feel Condo Ladprao 33"
+ },
+ {
+   "developer_id": 140900,
+   "brand_id": 1994,
+   "brand_name_th": "แอมไชน่าทาวน์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140894,
+   "brand_id": 1982,
+   "brand_name_th": "",
+   "brand_name_en": "THE SENSE Amphawa"
+ },
+ {
+   "developer_id": 140875,
+   "brand_id": 1934,
+   "brand_name_th": "บ้านพิมพ์ศิริ สุพรรณ",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140607,
+   "brand_id": 337,
+   "brand_name_th": "",
+   "brand_name_en": "BEST HOME"
+ },
+ {
+   "developer_id": 140902,
+   "brand_id": 1998,
+   "brand_name_th": "ไฟคัส เลน",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140904,
+   "brand_id": 2007,
+   "brand_name_th": "เดอะมอนิ่งไซด์วิลล์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140868,
+   "brand_id": 1929,
+   "brand_name_th": "เดอะริชทาวน์ 3",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140860,
+   "brand_id": 1923,
+   "brand_name_th": "ภูเก็ตโกลเด้นวิลล์",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140878,
+   "brand_id": 1945,
+   "brand_name_th": "เดอะเฟลกซ์ ทาวน์โฮม",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140892,
+   "brand_id": 1977,
+   "brand_name_th": "ภัทราโคซี่",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140901,
+   "brand_id": 1997,
+   "brand_name_th": "อชิลา",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140554,
+   "brand_id": 638,
+   "brand_name_th": "เดอะ เลเจ้นท์ สาทร",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 140905,
+   "brand_id": 2005,
+   "brand_name_th": "วนารมย์ วิลเลจ",
+   "brand_name_en": ""
+ },
+ {
+   "developer_id": 141022,
+   "brand_id": 2230,
+   "brand_name_th": "บียอนด์ บาย สายลมเย็น",
+   "brand_name_en": ""
+ }
+]
